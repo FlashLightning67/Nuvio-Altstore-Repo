@@ -9,7 +9,7 @@ An auto-updating [AltStore](https://altstore.io) / SideStore / Feather source fo
 Once published (see below), add this source URL in AltStore → Sources → **+**:
 
 ```
-https://raw.githubusercontent.com/<your-user>/<this-repo>/main/apps.json
+[https://raw.githubusercontent.com/<your-user>/<this-repo>/main/apps.json](https://raw.githubusercontent.com/FlashLightning67/Nuvio-Altstore-Repo/refs/heads/main/apps.json)
 ```
 
 ## How it works
