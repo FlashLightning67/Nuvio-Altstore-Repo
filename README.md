@@ -1,6 +1,6 @@
 # Nuvio Unofficial — AltStore source
 
-An auto-updating [AltStore](https://altstore.io) / SideStore / Feather source for the
+An auto-updating AltStore / SideStore / Feather source for the
 **Full** and **Enhanced** Nuvio iOS builds from
 [`luqmanfadlli/NuvioMobile-iOS`](https://github.com/luqmanfadlli/NuvioMobile-iOS).
 
