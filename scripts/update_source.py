@@ -38,7 +38,7 @@ SOURCE_META = {
     "name": "Nuvio (Unofficial iOS)",
     "identifier": "unofficial.nuvio.altstore",   # unique id for THIS source
     "subtitle": "Full & Enhanced Nuvio builds for AltStore / SideStore.",
-    "iconURL": "https://raw.githubusercontent.com/tapframe/NuvioTV/main/assets/brand/app_logo.png",
+    "iconURL": "https://github.com/FlashLightning67/Nuvio-Altstore-Repo/blob/073dc394312150cad305b70f70dc429a48e5d341/app-icon-1024.png?raw=true",
     "website": "https://nuvio.tv/",
     "tintColor": "7B2FF7",
 }
