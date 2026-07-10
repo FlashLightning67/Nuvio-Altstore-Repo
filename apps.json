@@ -26,15 +26,6 @@
           "sha256": "442b7245edbc4ef4563e31bb3bef21b5a15f17462907961db5301c4cb01889e6",
           "minOSVersion": "16.1"
         },
-        {
-          "version": "0.0.0-PLACEHOLDER",
-          "date": "2026-01-01",
-          "localizedDescription": "Placeholder. Run the 'Update AltStore source' workflow once to populate real version, size, sha256 and download URL from the latest Full release.",
-          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/latest",
-          "size": 0,
-          "sha256": "",
-          "minOSVersion": "14.0"
-        }
       ],
       "version": "0.2.21",
       "versionDate": "2026-07-09",
@@ -62,15 +53,6 @@
           "sha256": "0e7fb05e1229bf63e99c4d15fb91504a8c3519b0307e0de0aaad2fda8a8d1a2b",
           "minOSVersion": "16.1"
         },
-        {
-          "version": "0.0.0-PLACEHOLDER",
-          "date": "2026-01-01",
-          "localizedDescription": "Placeholder. Run the 'Update AltStore source' workflow once to populate real version, size, sha256 and download URL from the latest Enhanced release.",
-          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/latest",
-          "size": 0,
-          "sha256": "",
-          "minOSVersion": "14.0"
-        }
       ],
       "version": "0.2.21",
       "versionDate": "2026-07-09",
