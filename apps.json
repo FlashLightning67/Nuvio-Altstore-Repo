@@ -18,6 +18,15 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.2.22",
+          "date": "2026-07-11",
+          "localizedDescription": "# \ud83d\ude80 Release v0.2.22\r\n\r\nThis release is based on the upstream **Nuvio v0.2.22**, see official release details [here](https://github.com/NuvioMedia/NuvioMobile/releases/tag/0.2.22).\r\n\r\n---\r\n\r\n## Variants\r\n\r\n### Nuvio Full\r\nThis variant is similar to the official TestFlight version with unlocked Plugins and in-app Trailers.\r\n\r\n### Nuvio Enhanced\r\nThis custom variant includes experimental features, quality-of-life improvements, and specific bug fixes not yet available in the upstream repository.\r\n\r\n**Added Features:**\r\n* Added Now Playing Control in the Notification, Lockscreen, and Widget with media metadata and artwork.\r\n* Added a volume boost feature (up to 200%) for quieter streams.\r\n* Added support for Live TV integrations.\r\n* Added stream quality selection in Player Control.\r\n* Add artwo",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.2.22/Nuvio-v0.2.22-Full.ipa",
+          "size": 41396608,
+          "sha256": "89ec19e73bcbca3ae6910ef4a28b15370b4f056d984610f5c12d5eb366767936",
+          "minOSVersion": "16.1"
+        },
+        {
           "version": "0.2.21",
           "date": "2026-07-09",
           "localizedDescription": "# \ud83d\ude80 Release v0.2.21\r\n\r\nThis release is based on the upstream **Nuvio v0.2.21**, see official release details [here](https://github.com/NuvioMedia/NuvioMobile/releases/tag/0.2.21).\r\n\r\n---\r\n\r\n## Variants\r\n\r\n### Nuvio Full\r\nThis variant is similar to the official TestFlight version with unlocked Plugins and in-app Trailers.\r\n\r\n### Nuvio Enhanced\r\nThis custom variant includes experimental features, quality-of-life improvements, and specific bug fixes not yet available in the upstream repository.\r\n\r\n**Added Features:**\r\n* Added Now Playing Control in the Notification, Lockscreen, and Widget with media metadata and artwork.\r\n* Added a volume boost feature (up to 200%) for quieter streams.\r\n* Added support for Live TV integrations.\r\n* Added stream quality selection in Player Control.\r\n* Add artwo",
@@ -27,11 +36,11 @@
           "minOSVersion": "16.1"
         }
       ],
-      "version": "0.2.21",
-      "versionDate": "2026-07-09",
-      "versionDescription": "# \ud83d\ude80 Release v0.2.21\r\n\r\nThis release is based on the upstream **Nuvio v0.2.21**, see official release details [here](https://github.com/NuvioMedia/NuvioMobile/releases/tag/0.2.21).\r\n\r\n---\r\n\r\n## Variants\r\n\r\n### Nuvio Full\r\nThis variant is similar to the official TestFlight version with unlocked Plugins and in-app Trailers.\r\n\r\n### Nuvio Enhanced\r\nThis custom variant includes experimental features, quality-of-life improvements, and specific bug fixes not yet available in the upstream repository.\r\n\r\n**Added Features:**\r\n* Added Now Playing Control in the Notification, Lockscreen, and Widget with media metadata and artwork.\r\n* Added a volume boost feature (up to 200%) for quieter streams.\r\n* Added support for Live TV integrations.\r\n* Added stream quality selection in Player Control.\r\n* Add artwo",
-      "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.2.21/Nuvio-v0.2.21-Full.ipa",
-      "size": 40911351
+      "version": "0.2.22",
+      "versionDate": "2026-07-11",
+      "versionDescription": "# \ud83d\ude80 Release v0.2.22\r\n\r\nThis release is based on the upstream **Nuvio v0.2.22**, see official release details [here](https://github.com/NuvioMedia/NuvioMobile/releases/tag/0.2.22).\r\n\r\n---\r\n\r\n## Variants\r\n\r\n### Nuvio Full\r\nThis variant is similar to the official TestFlight version with unlocked Plugins and in-app Trailers.\r\n\r\n### Nuvio Enhanced\r\nThis custom variant includes experimental features, quality-of-life improvements, and specific bug fixes not yet available in the upstream repository.\r\n\r\n**Added Features:**\r\n* Added Now Playing Control in the Notification, Lockscreen, and Widget with media metadata and artwork.\r\n* Added a volume boost feature (up to 200%) for quieter streams.\r\n* Added support for Live TV integrations.\r\n* Added stream quality selection in Player Control.\r\n* Add artwo",
+      "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.2.22/Nuvio-v0.2.22-Full.ipa",
+      "size": 41396608
     },
     {
       "name": "Nuvio Enhanced",
@@ -45,6 +54,15 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.2.22",
+          "date": "2026-07-11",
+          "localizedDescription": "# \ud83d\ude80 Release v0.2.22\r\n\r\nThis release is based on the upstream **Nuvio v0.2.22**, see official release details [here](https://github.com/NuvioMedia/NuvioMobile/releases/tag/0.2.22).\r\n\r\n---\r\n\r\n## Variants\r\n\r\n### Nuvio Full\r\nThis variant is similar to the official TestFlight version with unlocked Plugins and in-app Trailers.\r\n\r\n### Nuvio Enhanced\r\nThis custom variant includes experimental features, quality-of-life improvements, and specific bug fixes not yet available in the upstream repository.\r\n\r\n**Added Features:**\r\n* Added Now Playing Control in the Notification, Lockscreen, and Widget with media metadata and artwork.\r\n* Added a volume boost feature (up to 200%) for quieter streams.\r\n* Added support for Live TV integrations.\r\n* Added stream quality selection in Player Control.\r\n* Add artwo",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.2.22/Nuvio-v0.2.22-Enhanced.ipa",
+          "size": 42082309,
+          "sha256": "b2afcf8c041af98680456217d234b33e123e3aaabd7b4c447cdaa39018a5c13e",
+          "minOSVersion": "16.1"
+        },
+        {
           "version": "0.2.21",
           "date": "2026-07-09",
           "localizedDescription": "# \ud83d\ude80 Release v0.2.21\r\n\r\nThis release is based on the upstream **Nuvio v0.2.21**, see official release details [here](https://github.com/NuvioMedia/NuvioMobile/releases/tag/0.2.21).\r\n\r\n---\r\n\r\n## Variants\r\n\r\n### Nuvio Full\r\nThis variant is similar to the official TestFlight version with unlocked Plugins and in-app Trailers.\r\n\r\n### Nuvio Enhanced\r\nThis custom variant includes experimental features, quality-of-life improvements, and specific bug fixes not yet available in the upstream repository.\r\n\r\n**Added Features:**\r\n* Added Now Playing Control in the Notification, Lockscreen, and Widget with media metadata and artwork.\r\n* Added a volume boost feature (up to 200%) for quieter streams.\r\n* Added support for Live TV integrations.\r\n* Added stream quality selection in Player Control.\r\n* Add artwo",
@@ -54,11 +72,11 @@
           "minOSVersion": "16.1"
         }
       ],
-      "version": "0.2.21",
-      "versionDate": "2026-07-09",
-      "versionDescription": "# \ud83d\ude80 Release v0.2.21\r\n\r\nThis release is based on the upstream **Nuvio v0.2.21**, see official release details [here](https://github.com/NuvioMedia/NuvioMobile/releases/tag/0.2.21).\r\n\r\n---\r\n\r\n## Variants\r\n\r\n### Nuvio Full\r\nThis variant is similar to the official TestFlight version with unlocked Plugins and in-app Trailers.\r\n\r\n### Nuvio Enhanced\r\nThis custom variant includes experimental features, quality-of-life improvements, and specific bug fixes not yet available in the upstream repository.\r\n\r\n**Added Features:**\r\n* Added Now Playing Control in the Notification, Lockscreen, and Widget with media metadata and artwork.\r\n* Added a volume boost feature (up to 200%) for quieter streams.\r\n* Added support for Live TV integrations.\r\n* Added stream quality selection in Player Control.\r\n* Add artwo",
-      "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.2.21/Nuvio-v0.2.21-Enhanced.ipa",
-      "size": 41599321
+      "version": "0.2.22",
+      "versionDate": "2026-07-11",
+      "versionDescription": "# \ud83d\ude80 Release v0.2.22\r\n\r\nThis release is based on the upstream **Nuvio v0.2.22**, see official release details [here](https://github.com/NuvioMedia/NuvioMobile/releases/tag/0.2.22).\r\n\r\n---\r\n\r\n## Variants\r\n\r\n### Nuvio Full\r\nThis variant is similar to the official TestFlight version with unlocked Plugins and in-app Trailers.\r\n\r\n### Nuvio Enhanced\r\nThis custom variant includes experimental features, quality-of-life improvements, and specific bug fixes not yet available in the upstream repository.\r\n\r\n**Added Features:**\r\n* Added Now Playing Control in the Notification, Lockscreen, and Widget with media metadata and artwork.\r\n* Added a volume boost feature (up to 200%) for quieter streams.\r\n* Added support for Live TV integrations.\r\n* Added stream quality selection in Player Control.\r\n* Add artwo",
+      "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.2.22/Nuvio-v0.2.22-Enhanced.ipa",
+      "size": 42082309
     }
   ],
   "news": []
