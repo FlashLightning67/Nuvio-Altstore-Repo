@@ -2,10 +2,10 @@ name: Update AltStore source
 
 on:
   schedule:
-    - cron: "0 */6 * * *"   # every 6 hours
-  workflow_dispatch: {}       # manual "Run workflow" button
+    - cron: "0 */6 * * *" # every 6 hours
+  workflow_dispatch: {}
   release:
-    types: [published]        # only fires for releases in THIS repo
+    types: [published]
 
 permissions:
   contents: write
@@ -15,7 +15,6 @@ concurrency:
   cancel-in-progress: true
 
 env:
-  # The upstream repo whose releases we pull IPAs from. Change here, not in code.
   UPSTREAM_REPO: luqmanfadlli/NuvioMobile-iOS
 
 jobs:
@@ -33,20 +32,14 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           python3 - <<'PY'
-          # Reads the existing apps.json and ONLY updates version data. Everything
-          # else you put in apps.json (names, descriptions, icon, bundle ids, tint,
-          # screenshots, source-level fields) is left untouched.
-          #
-          # Asset routing: an app whose name contains "enhanced" is matched to .ipa
-          # assets whose filename contains "enhanced"; any other app is matched to
-          # the .ipa assets that do NOT contain "enhanced". No filenames hardcoded.
+          # Reads the existing apps.json and updates version.
+          
           import hashlib, io, json, os, plistlib, re, sys, urllib.request, zipfile
           from datetime import datetime, timezone
 
           REPO = os.environ.get("UPSTREAM_REPO", "luqmanfadlli/NuvioMobile-iOS")
           APPS = "apps.json"
           DOWNLOAD_TIMEOUT = 300
-
 
           def gh_get(url):
               req = urllib.request.Request(url, headers={
@@ -164,13 +157,13 @@ jobs:
                   if min_os:
                       entry["minOSVersion"] = min_os
 
-                  # Keep prior versions as history; drop placeholders and any same-version dup.
+                  # Keep prior versions as history; drop placeholders and any same-version dupe.
                   history = [v for v in (app.get("versions") or [])
                              if "PLACEHOLDER" not in str(v.get("version", ""))
                              and v.get("version") != version]
                   app["versions"] = [entry] + history
 
-                  # Mirror legacy top-level fields, but ONLY if they already exist.
+                  # Keep other fields
                   for k, val in (("version", entry["version"]), ("versionDate", entry["date"]),
                                  ("versionDescription", entry["localizedDescription"]),
                                  ("downloadURL", url), ("size", entry["size"])):
