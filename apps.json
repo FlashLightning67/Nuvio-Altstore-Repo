@@ -1,8 +1,8 @@
 {
-  "name": "Nuvio (Unofficial iOS)",
+  "name": "Nuvio (Unofficial)",
   "identifier": "unofficial.nuvio.altstore",
   "subtitle": "Full & Enhanced Nuvio builds for AltStore / SideStore.",
-  "iconURL": "https://github.com/FlashLightning67/Nuvio-Altstore-Repo/blob/073dc394312150cad305b70f70dc429a48e5d341/app-icon-1024.png?raw=true",
+  "iconURL": "https://raw.githubusercontent.com/FlashLightning67/Nuvio-Altstore-Repo/refs/heads/main/app-icon-1024.png",
   "website": "https://nuvio.tv/",
   "tintColor": "7B2FF7",
   "apps": [
@@ -12,7 +12,7 @@
       "developerName": "Nuvio Unofficial",
       "subtitle": "Watch your library, anywhere",
       "localizedDescription": "Unofficial Full build of Nuvio Mobile for iOS / iPadOS.",
-      "iconURL": "https://github.com/FlashLightning67/Nuvio-Altstore-Repo/blob/073dc394312150cad305b70f70dc429a48e5d341/app-icon-1024.png?raw=true",
+      "iconURL": "https://raw.githubusercontent.com/FlashLightning67/Nuvio-Altstore-Repo/refs/heads/main/app-icon-1024.png",
       "tintColor": "7B2FF7",
       "category": "entertainment",
       "screenshotURLs": [],
@@ -25,7 +25,7 @@
           "size": 40911351,
           "sha256": "442b7245edbc4ef4563e31bb3bef21b5a15f17462907961db5301c4cb01889e6",
           "minOSVersion": "16.1"
-        }
+        },
       ],
       "version": "0.2.21",
       "versionDate": "2026-07-09",
@@ -39,7 +39,7 @@
       "developerName": "Nuvio Unofficial",
       "subtitle": "Watch your library, anywhere",
       "localizedDescription": "Unofficial Enhanced build of Nuvio Mobile for iOS / iPadOS.",
-      "iconURL": "https://github.com/FlashLightning67/Nuvio-Altstore-Repo/blob/073dc394312150cad305b70f70dc429a48e5d341/app-icon-1024.png?raw=true",
+      "iconURL": "https://raw.githubusercontent.com/FlashLightning67/Nuvio-Altstore-Repo/refs/heads/main/app-icon-1024.png",
       "tintColor": "7B2FF7",
       "category": "entertainment",
       "screenshotURLs": [],
@@ -52,7 +52,7 @@
           "size": 41599321,
           "sha256": "0e7fb05e1229bf63e99c4d15fb91504a8c3519b0307e0de0aaad2fda8a8d1a2b",
           "minOSVersion": "16.1"
-        }
+        },
       ],
       "version": "0.2.21",
       "versionDate": "2026-07-09",
