@@ -25,7 +25,7 @@
           "size": 40911351,
           "sha256": "442b7245edbc4ef4563e31bb3bef21b5a15f17462907961db5301c4cb01889e6",
           "minOSVersion": "16.1"
-        },
+        }
       ],
       "version": "0.2.21",
       "versionDate": "2026-07-09",
@@ -52,7 +52,7 @@
           "size": 41599321,
           "sha256": "0e7fb05e1229bf63e99c4d15fb91504a8c3519b0307e0de0aaad2fda8a8d1a2b",
           "minOSVersion": "16.1"
-        },
+        }
       ],
       "version": "0.2.21",
       "versionDate": "2026-07-09",
