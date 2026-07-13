@@ -18,6 +18,15 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.2.23",
+          "date": "2026-07-13",
+          "localizedDescription": "# \ud83d\ude80 Release v0.2.23\r\n\r\n## You can now add AltStore/SideStore source\r\n**Nuvio Full:**\r\n```\r\nhttps://raw.githubusercontent.com/luqmanfadlli/NuvioMobile-iOS/main/NuvioFull.json\r\n```\r\n**Nuvio Enhanced:**\r\n```\r\nhttps://raw.githubusercontent.com/luqmanfadlli/NuvioMobile-iOS/main/NuvioEnhanced.json\r\n```\r\n\r\n## Upstream changelog:\r\n* added customizable card depth effects. @tapframe\r\n* Fixed a critical regression that could reset synced profile settings. @tapframe\r\n\r\n---\r\n\r\n## Variants\r\n\r\n### Nuvio Full\r\nThis variant is similar to the official TestFlight version with unlocked Plugins and in-app Trailers.\r\n\r\n### Nuvio Enhanced\r\nThis custom variant includes experimental features, quality-of-life improvements, and specific bug fixes not yet available in the upstream repository.\r\n\r\n**Added Features:**\r\n",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.2.23/Nuvio-v0.2.23-Full.ipa",
+          "size": 41466558,
+          "sha256": "344c1c6fb24bbc97e2565566750fa04fabd0dbbc38143378f4c69c949e9f9f53",
+          "minOSVersion": "16.1"
+        },
+        {
           "version": "0.2.22",
           "date": "2026-07-11",
           "localizedDescription": "# \ud83d\ude80 Release v0.2.22\r\n\r\nThis release is based on the upstream **Nuvio v0.2.22**, see official release details [here](https://github.com/NuvioMedia/NuvioMobile/releases/tag/0.2.22).\r\n\r\n---\r\n\r\n## Variants\r\n\r\n### Nuvio Full\r\nThis variant is similar to the official TestFlight version with unlocked Plugins and in-app Trailers.\r\n\r\n### Nuvio Enhanced\r\nThis custom variant includes experimental features, quality-of-life improvements, and specific bug fixes not yet available in the upstream repository.\r\n\r\n**Added Features:**\r\n* Added Now Playing Control in the Notification, Lockscreen, and Widget with media metadata and artwork.\r\n* Added a volume boost feature (up to 200%) for quieter streams.\r\n* Added support for Live TV integrations.\r\n* Added stream quality selection in Player Control.\r\n* Add artwo",
@@ -36,11 +45,11 @@
           "minOSVersion": "16.1"
         }
       ],
-      "version": "0.2.22",
-      "versionDate": "2026-07-11",
-      "versionDescription": "# \ud83d\ude80 Release v0.2.22\r\n\r\nThis release is based on the upstream **Nuvio v0.2.22**, see official release details [here](https://github.com/NuvioMedia/NuvioMobile/releases/tag/0.2.22).\r\n\r\n---\r\n\r\n## Variants\r\n\r\n### Nuvio Full\r\nThis variant is similar to the official TestFlight version with unlocked Plugins and in-app Trailers.\r\n\r\n### Nuvio Enhanced\r\nThis custom variant includes experimental features, quality-of-life improvements, and specific bug fixes not yet available in the upstream repository.\r\n\r\n**Added Features:**\r\n* Added Now Playing Control in the Notification, Lockscreen, and Widget with media metadata and artwork.\r\n* Added a volume boost feature (up to 200%) for quieter streams.\r\n* Added support for Live TV integrations.\r\n* Added stream quality selection in Player Control.\r\n* Add artwo",
-      "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.2.22/Nuvio-v0.2.22-Full.ipa",
-      "size": 41396608
+      "version": "0.2.23",
+      "versionDate": "2026-07-13",
+      "versionDescription": "# \ud83d\ude80 Release v0.2.23\r\n\r\n## You can now add AltStore/SideStore source\r\n**Nuvio Full:**\r\n```\r\nhttps://raw.githubusercontent.com/luqmanfadlli/NuvioMobile-iOS/main/NuvioFull.json\r\n```\r\n**Nuvio Enhanced:**\r\n```\r\nhttps://raw.githubusercontent.com/luqmanfadlli/NuvioMobile-iOS/main/NuvioEnhanced.json\r\n```\r\n\r\n## Upstream changelog:\r\n* added customizable card depth effects. @tapframe\r\n* Fixed a critical regression that could reset synced profile settings. @tapframe\r\n\r\n---\r\n\r\n## Variants\r\n\r\n### Nuvio Full\r\nThis variant is similar to the official TestFlight version with unlocked Plugins and in-app Trailers.\r\n\r\n### Nuvio Enhanced\r\nThis custom variant includes experimental features, quality-of-life improvements, and specific bug fixes not yet available in the upstream repository.\r\n\r\n**Added Features:**\r\n",
+      "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.2.23/Nuvio-v0.2.23-Full.ipa",
+      "size": 41466558
     },
     {
       "name": "Nuvio Enhanced",
@@ -53,6 +62,15 @@
       "category": "entertainment",
       "screenshotURLs": [],
       "versions": [
+        {
+          "version": "0.2.23",
+          "date": "2026-07-13",
+          "localizedDescription": "# \ud83d\ude80 Release v0.2.23\r\n\r\n## You can now add AltStore/SideStore source\r\n**Nuvio Full:**\r\n```\r\nhttps://raw.githubusercontent.com/luqmanfadlli/NuvioMobile-iOS/main/NuvioFull.json\r\n```\r\n**Nuvio Enhanced:**\r\n```\r\nhttps://raw.githubusercontent.com/luqmanfadlli/NuvioMobile-iOS/main/NuvioEnhanced.json\r\n```\r\n\r\n## Upstream changelog:\r\n* added customizable card depth effects. @tapframe\r\n* Fixed a critical regression that could reset synced profile settings. @tapframe\r\n\r\n---\r\n\r\n## Variants\r\n\r\n### Nuvio Full\r\nThis variant is similar to the official TestFlight version with unlocked Plugins and in-app Trailers.\r\n\r\n### Nuvio Enhanced\r\nThis custom variant includes experimental features, quality-of-life improvements, and specific bug fixes not yet available in the upstream repository.\r\n\r\n**Added Features:**\r\n",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.2.23/Nuvio-v0.2.23-Enhanced.ipa",
+          "size": 42148349,
+          "sha256": "cc42a150af37b383597d1fe29c07d8eaeb9780b96fb643c222bbd2e9adf3b79c",
+          "minOSVersion": "16.1"
+        },
         {
           "version": "0.2.22",
           "date": "2026-07-11",
@@ -72,11 +90,11 @@
           "minOSVersion": "16.1"
         }
       ],
-      "version": "0.2.22",
-      "versionDate": "2026-07-11",
-      "versionDescription": "# \ud83d\ude80 Release v0.2.22\r\n\r\nThis release is based on the upstream **Nuvio v0.2.22**, see official release details [here](https://github.com/NuvioMedia/NuvioMobile/releases/tag/0.2.22).\r\n\r\n---\r\n\r\n## Variants\r\n\r\n### Nuvio Full\r\nThis variant is similar to the official TestFlight version with unlocked Plugins and in-app Trailers.\r\n\r\n### Nuvio Enhanced\r\nThis custom variant includes experimental features, quality-of-life improvements, and specific bug fixes not yet available in the upstream repository.\r\n\r\n**Added Features:**\r\n* Added Now Playing Control in the Notification, Lockscreen, and Widget with media metadata and artwork.\r\n* Added a volume boost feature (up to 200%) for quieter streams.\r\n* Added support for Live TV integrations.\r\n* Added stream quality selection in Player Control.\r\n* Add artwo",
-      "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.2.22/Nuvio-v0.2.22-Enhanced.ipa",
-      "size": 42082309
+      "version": "0.2.23",
+      "versionDate": "2026-07-13",
+      "versionDescription": "# \ud83d\ude80 Release v0.2.23\r\n\r\n## You can now add AltStore/SideStore source\r\n**Nuvio Full:**\r\n```\r\nhttps://raw.githubusercontent.com/luqmanfadlli/NuvioMobile-iOS/main/NuvioFull.json\r\n```\r\n**Nuvio Enhanced:**\r\n```\r\nhttps://raw.githubusercontent.com/luqmanfadlli/NuvioMobile-iOS/main/NuvioEnhanced.json\r\n```\r\n\r\n## Upstream changelog:\r\n* added customizable card depth effects. @tapframe\r\n* Fixed a critical regression that could reset synced profile settings. @tapframe\r\n\r\n---\r\n\r\n## Variants\r\n\r\n### Nuvio Full\r\nThis variant is similar to the official TestFlight version with unlocked Plugins and in-app Trailers.\r\n\r\n### Nuvio Enhanced\r\nThis custom variant includes experimental features, quality-of-life improvements, and specific bug fixes not yet available in the upstream repository.\r\n\r\n**Added Features:**\r\n",
+      "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.2.23/Nuvio-v0.2.23-Enhanced.ipa",
+      "size": 42148349
     }
   ],
   "news": []
