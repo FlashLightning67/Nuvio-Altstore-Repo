@@ -18,6 +18,15 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.2.24",
+          "date": "2026-07-15",
+          "localizedDescription": "# \ud83d\ude80 Release v0.2.24\r\n\r\n## You can now add AltStore/SideStore source\r\n**Nuvio Full:**\r\n```\r\nhttps://raw.githubusercontent.com/luqmanfadlli/NuvioMobile-iOS/main/NuvioFull.json\r\n```\r\n**Nuvio Enhanced:**\r\n```\r\nhttps://raw.githubusercontent.com/luqmanfadlli/NuvioMobile-iOS/main/NuvioEnhanced.json\r\n```\r\n\r\n## Upstream changelog:\r\n- Fix and complete Greek translations @nosvasedis\r\n- Update Italian translations @WhiteGiso\r\n- Update Vietnamese translations @khanh71\r\n- Update Parental Guidance API integration @i4mth3d4ng3r\r\n- Add Android Now Playing media controls @luqmanfadlli\r\n- Fix Continue Watching enrichment retries and Up Next logic @tapframe\r\n- Match Trakt Continue Watching behavior with NuvioTV @tapframe\r\n- Fix Android Picture-in-Picture behavior @darkflame91\r\n- Fix library synchronization du",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.2.24/Nuvio-v0.2.24-Full.ipa",
+          "size": 41542304,
+          "sha256": "0ca69e3e4920e56f3ee4bd82c2766ae7bc26a675fe3ee881b2acd93217d3c1ac",
+          "minOSVersion": "16.1"
+        },
+        {
           "version": "0.2.23",
           "date": "2026-07-13",
           "localizedDescription": "# \ud83d\ude80 Release v0.2.23\r\n\r\n## You can now add AltStore/SideStore source\r\n**Nuvio Full:**\r\n```\r\nhttps://raw.githubusercontent.com/luqmanfadlli/NuvioMobile-iOS/main/NuvioFull.json\r\n```\r\n**Nuvio Enhanced:**\r\n```\r\nhttps://raw.githubusercontent.com/luqmanfadlli/NuvioMobile-iOS/main/NuvioEnhanced.json\r\n```\r\n\r\n## Upstream changelog:\r\n* added customizable card depth effects. @tapframe\r\n* Fixed a critical regression that could reset synced profile settings. @tapframe\r\n\r\n---\r\n\r\n## Variants\r\n\r\n### Nuvio Full\r\nThis variant is similar to the official TestFlight version with unlocked Plugins and in-app Trailers.\r\n\r\n### Nuvio Enhanced\r\nThis custom variant includes experimental features, quality-of-life improvements, and specific bug fixes not yet available in the upstream repository.\r\n\r\n**Added Features:**\r\n",
@@ -45,11 +54,11 @@
           "minOSVersion": "16.1"
         }
       ],
-      "version": "0.2.23",
-      "versionDate": "2026-07-13",
-      "versionDescription": "# \ud83d\ude80 Release v0.2.23\r\n\r\n## You can now add AltStore/SideStore source\r\n**Nuvio Full:**\r\n```\r\nhttps://raw.githubusercontent.com/luqmanfadlli/NuvioMobile-iOS/main/NuvioFull.json\r\n```\r\n**Nuvio Enhanced:**\r\n```\r\nhttps://raw.githubusercontent.com/luqmanfadlli/NuvioMobile-iOS/main/NuvioEnhanced.json\r\n```\r\n\r\n## Upstream changelog:\r\n* added customizable card depth effects. @tapframe\r\n* Fixed a critical regression that could reset synced profile settings. @tapframe\r\n\r\n---\r\n\r\n## Variants\r\n\r\n### Nuvio Full\r\nThis variant is similar to the official TestFlight version with unlocked Plugins and in-app Trailers.\r\n\r\n### Nuvio Enhanced\r\nThis custom variant includes experimental features, quality-of-life improvements, and specific bug fixes not yet available in the upstream repository.\r\n\r\n**Added Features:**\r\n",
-      "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.2.23/Nuvio-v0.2.23-Full.ipa",
-      "size": 41466558
+      "version": "0.2.24",
+      "versionDate": "2026-07-15",
+      "versionDescription": "# \ud83d\ude80 Release v0.2.24\r\n\r\n## You can now add AltStore/SideStore source\r\n**Nuvio Full:**\r\n```\r\nhttps://raw.githubusercontent.com/luqmanfadlli/NuvioMobile-iOS/main/NuvioFull.json\r\n```\r\n**Nuvio Enhanced:**\r\n```\r\nhttps://raw.githubusercontent.com/luqmanfadlli/NuvioMobile-iOS/main/NuvioEnhanced.json\r\n```\r\n\r\n## Upstream changelog:\r\n- Fix and complete Greek translations @nosvasedis\r\n- Update Italian translations @WhiteGiso\r\n- Update Vietnamese translations @khanh71\r\n- Update Parental Guidance API integration @i4mth3d4ng3r\r\n- Add Android Now Playing media controls @luqmanfadlli\r\n- Fix Continue Watching enrichment retries and Up Next logic @tapframe\r\n- Match Trakt Continue Watching behavior with NuvioTV @tapframe\r\n- Fix Android Picture-in-Picture behavior @darkflame91\r\n- Fix library synchronization du",
+      "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.2.24/Nuvio-v0.2.24-Full.ipa",
+      "size": 41542304
     },
     {
       "name": "Nuvio Enhanced",
@@ -62,6 +71,15 @@
       "category": "entertainment",
       "screenshotURLs": [],
       "versions": [
+        {
+          "version": "0.2.24",
+          "date": "2026-07-15",
+          "localizedDescription": "# \ud83d\ude80 Release v0.2.24\r\n\r\n## You can now add AltStore/SideStore source\r\n**Nuvio Full:**\r\n```\r\nhttps://raw.githubusercontent.com/luqmanfadlli/NuvioMobile-iOS/main/NuvioFull.json\r\n```\r\n**Nuvio Enhanced:**\r\n```\r\nhttps://raw.githubusercontent.com/luqmanfadlli/NuvioMobile-iOS/main/NuvioEnhanced.json\r\n```\r\n\r\n## Upstream changelog:\r\n- Fix and complete Greek translations @nosvasedis\r\n- Update Italian translations @WhiteGiso\r\n- Update Vietnamese translations @khanh71\r\n- Update Parental Guidance API integration @i4mth3d4ng3r\r\n- Add Android Now Playing media controls @luqmanfadlli\r\n- Fix Continue Watching enrichment retries and Up Next logic @tapframe\r\n- Match Trakt Continue Watching behavior with NuvioTV @tapframe\r\n- Fix Android Picture-in-Picture behavior @darkflame91\r\n- Fix library synchronization du",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.2.24/Nuvio-v0.2.24-Enhanced.ipa",
+          "size": 42209015,
+          "sha256": "980b5e3aa85549c53e943056d6bab0912ebf8ae3e95f056fe8709f8d24aa6d04",
+          "minOSVersion": "16.1"
+        },
         {
           "version": "0.2.23",
           "date": "2026-07-13",
@@ -90,11 +108,11 @@
           "minOSVersion": "16.1"
         }
       ],
-      "version": "0.2.23",
-      "versionDate": "2026-07-13",
-      "versionDescription": "# \ud83d\ude80 Release v0.2.23\r\n\r\n## You can now add AltStore/SideStore source\r\n**Nuvio Full:**\r\n```\r\nhttps://raw.githubusercontent.com/luqmanfadlli/NuvioMobile-iOS/main/NuvioFull.json\r\n```\r\n**Nuvio Enhanced:**\r\n```\r\nhttps://raw.githubusercontent.com/luqmanfadlli/NuvioMobile-iOS/main/NuvioEnhanced.json\r\n```\r\n\r\n## Upstream changelog:\r\n* added customizable card depth effects. @tapframe\r\n* Fixed a critical regression that could reset synced profile settings. @tapframe\r\n\r\n---\r\n\r\n## Variants\r\n\r\n### Nuvio Full\r\nThis variant is similar to the official TestFlight version with unlocked Plugins and in-app Trailers.\r\n\r\n### Nuvio Enhanced\r\nThis custom variant includes experimental features, quality-of-life improvements, and specific bug fixes not yet available in the upstream repository.\r\n\r\n**Added Features:**\r\n",
-      "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.2.23/Nuvio-v0.2.23-Enhanced.ipa",
-      "size": 42148349
+      "version": "0.2.24",
+      "versionDate": "2026-07-15",
+      "versionDescription": "# \ud83d\ude80 Release v0.2.24\r\n\r\n## You can now add AltStore/SideStore source\r\n**Nuvio Full:**\r\n```\r\nhttps://raw.githubusercontent.com/luqmanfadlli/NuvioMobile-iOS/main/NuvioFull.json\r\n```\r\n**Nuvio Enhanced:**\r\n```\r\nhttps://raw.githubusercontent.com/luqmanfadlli/NuvioMobile-iOS/main/NuvioEnhanced.json\r\n```\r\n\r\n## Upstream changelog:\r\n- Fix and complete Greek translations @nosvasedis\r\n- Update Italian translations @WhiteGiso\r\n- Update Vietnamese translations @khanh71\r\n- Update Parental Guidance API integration @i4mth3d4ng3r\r\n- Add Android Now Playing media controls @luqmanfadlli\r\n- Fix Continue Watching enrichment retries and Up Next logic @tapframe\r\n- Match Trakt Continue Watching behavior with NuvioTV @tapframe\r\n- Fix Android Picture-in-Picture behavior @darkflame91\r\n- Fix library synchronization du",
+      "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.2.24/Nuvio-v0.2.24-Enhanced.ipa",
+      "size": 42209015
     }
   ],
   "news": []
