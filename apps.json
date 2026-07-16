@@ -81,6 +81,15 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.2.25",
+          "date": "2026-07-16",
+          "localizedDescription": "# \ud83d\ude80 Release v0.2.25\r\n\r\n## Upstream changelog:\r\n- fix: disable predictive back on Android @tapframe\r\n- ref: remove contribution summary @tapframe\r\n\r\n## Enhanced changelog:\r\n- Added Library Grid View @luqmanfadlli\r\n- iOS: Fixed Collection NavBar obstructing catalog filters @luqmanfadlli\r\n- iOS: Auto-hide Liquid Glass NavBar on scroll @luqmanfadlli\r\n- Fixed status bar visibility @luqmanfadlli\r\n\r\n---\r\n\r\n## Variants\r\n\r\n### Nuvio Full\r\nThis variant is similar to the official TestFlight version with unlocked Plugins and in-app Trailers.\r\n\r\nAltStore/SideStore source:\r\n```\r\nhttps://raw.githubusercontent.com/luqmanfadlli/NuvioMobile-iOS/main/NuvioFull.json\r\n```\r\n\r\n### Nuvio Enhanced\r\nThis custom variant includes experimental features, quality-of-life improvements, and specific bug fixes not yet avai",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.2.25/Nuvio-v0.2.25-Enhanced.ipa",
+          "size": 42250877,
+          "sha256": "abbd546e9bf905b1827fa5a6eec5ab1d83fd550d302efc2127f79b00a6b903d9",
+          "minOSVersion": "16.1"
+        },
+        {
           "version": "0.2.24",
           "date": "2026-07-15",
           "localizedDescription": "# \ud83d\ude80 Release v0.2.24\r\n\r\n## You can now add AltStore/SideStore source\r\n**Nuvio Full:**\r\n```\r\nhttps://raw.githubusercontent.com/luqmanfadlli/NuvioMobile-iOS/main/NuvioFull.json\r\n```\r\n**Nuvio Enhanced:**\r\n```\r\nhttps://raw.githubusercontent.com/luqmanfadlli/NuvioMobile-iOS/main/NuvioEnhanced.json\r\n```\r\n\r\n## Upstream changelog:\r\n- Fix and complete Greek translations @nosvasedis\r\n- Update Italian translations @WhiteGiso\r\n- Update Vietnamese translations @khanh71\r\n- Update Parental Guidance API integration @i4mth3d4ng3r\r\n- Add Android Now Playing media controls @luqmanfadlli\r\n- Fix Continue Watching enrichment retries and Up Next logic @tapframe\r\n- Match Trakt Continue Watching behavior with NuvioTV @tapframe\r\n- Fix Android Picture-in-Picture behavior @darkflame91\r\n- Fix library synchronization du",
@@ -117,11 +126,11 @@
           "minOSVersion": "16.1"
         }
       ],
-      "version": "0.2.24",
-      "versionDate": "2026-07-15",
-      "versionDescription": "# \ud83d\ude80 Release v0.2.24\r\n\r\n## You can now add AltStore/SideStore source\r\n**Nuvio Full:**\r\n```\r\nhttps://raw.githubusercontent.com/luqmanfadlli/NuvioMobile-iOS/main/NuvioFull.json\r\n```\r\n**Nuvio Enhanced:**\r\n```\r\nhttps://raw.githubusercontent.com/luqmanfadlli/NuvioMobile-iOS/main/NuvioEnhanced.json\r\n```\r\n\r\n## Upstream changelog:\r\n- Fix and complete Greek translations @nosvasedis\r\n- Update Italian translations @WhiteGiso\r\n- Update Vietnamese translations @khanh71\r\n- Update Parental Guidance API integration @i4mth3d4ng3r\r\n- Add Android Now Playing media controls @luqmanfadlli\r\n- Fix Continue Watching enrichment retries and Up Next logic @tapframe\r\n- Match Trakt Continue Watching behavior with NuvioTV @tapframe\r\n- Fix Android Picture-in-Picture behavior @darkflame91\r\n- Fix library synchronization du",
-      "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.2.24/Nuvio-v0.2.24-Enhanced.ipa",
-      "size": 42209015
+      "version": "0.2.25",
+      "versionDate": "2026-07-16",
+      "versionDescription": "# \ud83d\ude80 Release v0.2.25\r\n\r\n## Upstream changelog:\r\n- fix: disable predictive back on Android @tapframe\r\n- ref: remove contribution summary @tapframe\r\n\r\n## Enhanced changelog:\r\n- Added Library Grid View @luqmanfadlli\r\n- iOS: Fixed Collection NavBar obstructing catalog filters @luqmanfadlli\r\n- iOS: Auto-hide Liquid Glass NavBar on scroll @luqmanfadlli\r\n- Fixed status bar visibility @luqmanfadlli\r\n\r\n---\r\n\r\n## Variants\r\n\r\n### Nuvio Full\r\nThis variant is similar to the official TestFlight version with unlocked Plugins and in-app Trailers.\r\n\r\nAltStore/SideStore source:\r\n```\r\nhttps://raw.githubusercontent.com/luqmanfadlli/NuvioMobile-iOS/main/NuvioFull.json\r\n```\r\n\r\n### Nuvio Enhanced\r\nThis custom variant includes experimental features, quality-of-life improvements, and specific bug fixes not yet avai",
+      "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.2.25/Nuvio-v0.2.25-Enhanced.ipa",
+      "size": 42250877
     }
   ],
   "news": []
