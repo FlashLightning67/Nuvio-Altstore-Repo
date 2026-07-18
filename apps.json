@@ -18,6 +18,15 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.3.0",
+          "date": "2026-07-18",
+          "localizedDescription": "# \ud83d\ude80 Release v0.3.0\r\n\r\n## Upstream changelog:\r\n- fix(player): update sourceStreamsState to use mutableStateOf @tapframe\r\n- fix(player): make forced subtitle selection audio-aware @tapframe\r\n- fix(player): enforce preferred-language subtitle filtering @tapframe\r\n- fix(player): match forced subtitles to language preferences @tapframe\r\n- feat: add show catalog type option @tapframe\r\n- fix: show player streams progressively @tapframe\r\n- fix: preserve download metadata and nav layout @tapframe\r\n- fix: bound generic Android raw responses @tapframe\r\n- feat(player): match overlays to TV UI @tapframe\r\n- fix(trakt): invalidate rejected refresh tokens @tapframe\r\n- Update AppLanguage.kt @haveAnIssue\r\n- Create strings.xml @haveAnIssue\r\n- feat: modern floating pill navigation bar with scroll-responsive l",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.3.0/Nuvio-v0.3.0-Full.ipa",
+          "size": 41659415,
+          "sha256": "52dccaeae9752c86da0f66c4f4eb40eae4844a5a7ff8a2777ce9853befa81637",
+          "minOSVersion": "16.1"
+        },
+        {
           "version": "0.2.25",
           "date": "2026-07-16",
           "localizedDescription": "# \ud83d\ude80 Release v0.2.25\r\n\r\n## Upstream changelog:\r\n- fix: disable predictive back on Android @tapframe\r\n- ref: remove contribution summary @tapframe\r\n\r\n## Enhanced changelog:\r\n- Added Library Grid View @luqmanfadlli\r\n- iOS: Fixed Collection NavBar obstructing catalog filters @luqmanfadlli\r\n- iOS: Auto-hide Liquid Glass NavBar on scroll @luqmanfadlli\r\n- Fixed status bar visibility @luqmanfadlli\r\n\r\n---\r\n\r\n## Variants\r\n\r\n### Nuvio Full\r\nThis variant is similar to the official TestFlight version with unlocked Plugins and in-app Trailers.\r\n\r\nAltStore/SideStore source:\r\n```\r\nhttps://raw.githubusercontent.com/luqmanfadlli/NuvioMobile-iOS/main/NuvioFull.json\r\n```\r\n\r\n### Nuvio Enhanced\r\nThis custom variant includes experimental features, quality-of-life improvements, and specific bug fixes not yet avai",
@@ -63,11 +72,11 @@
           "minOSVersion": "16.1"
         }
       ],
-      "version": "0.2.25",
-      "versionDate": "2026-07-16",
-      "versionDescription": "# \ud83d\ude80 Release v0.2.25\r\n\r\n## Upstream changelog:\r\n- fix: disable predictive back on Android @tapframe\r\n- ref: remove contribution summary @tapframe\r\n\r\n## Enhanced changelog:\r\n- Added Library Grid View @luqmanfadlli\r\n- iOS: Fixed Collection NavBar obstructing catalog filters @luqmanfadlli\r\n- iOS: Auto-hide Liquid Glass NavBar on scroll @luqmanfadlli\r\n- Fixed status bar visibility @luqmanfadlli\r\n\r\n---\r\n\r\n## Variants\r\n\r\n### Nuvio Full\r\nThis variant is similar to the official TestFlight version with unlocked Plugins and in-app Trailers.\r\n\r\nAltStore/SideStore source:\r\n```\r\nhttps://raw.githubusercontent.com/luqmanfadlli/NuvioMobile-iOS/main/NuvioFull.json\r\n```\r\n\r\n### Nuvio Enhanced\r\nThis custom variant includes experimental features, quality-of-life improvements, and specific bug fixes not yet avai",
-      "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.2.25/Nuvio-v0.2.25-Full.ipa",
-      "size": 41564314
+      "version": "0.3.0",
+      "versionDate": "2026-07-18",
+      "versionDescription": "# \ud83d\ude80 Release v0.3.0\r\n\r\n## Upstream changelog:\r\n- fix(player): update sourceStreamsState to use mutableStateOf @tapframe\r\n- fix(player): make forced subtitle selection audio-aware @tapframe\r\n- fix(player): enforce preferred-language subtitle filtering @tapframe\r\n- fix(player): match forced subtitles to language preferences @tapframe\r\n- feat: add show catalog type option @tapframe\r\n- fix: show player streams progressively @tapframe\r\n- fix: preserve download metadata and nav layout @tapframe\r\n- fix: bound generic Android raw responses @tapframe\r\n- feat(player): match overlays to TV UI @tapframe\r\n- fix(trakt): invalidate rejected refresh tokens @tapframe\r\n- Update AppLanguage.kt @haveAnIssue\r\n- Create strings.xml @haveAnIssue\r\n- feat: modern floating pill navigation bar with scroll-responsive l",
+      "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.3.0/Nuvio-v0.3.0-Full.ipa",
+      "size": 41659415
     },
     {
       "name": "Nuvio Enhanced",
@@ -80,6 +89,15 @@
       "category": "entertainment",
       "screenshotURLs": [],
       "versions": [
+        {
+          "version": "0.3.0",
+          "date": "2026-07-18",
+          "localizedDescription": "# \ud83d\ude80 Release v0.3.0\r\n\r\n## Upstream changelog:\r\n- fix(player): update sourceStreamsState to use mutableStateOf @tapframe\r\n- fix(player): make forced subtitle selection audio-aware @tapframe\r\n- fix(player): enforce preferred-language subtitle filtering @tapframe\r\n- fix(player): match forced subtitles to language preferences @tapframe\r\n- feat: add show catalog type option @tapframe\r\n- fix: show player streams progressively @tapframe\r\n- fix: preserve download metadata and nav layout @tapframe\r\n- fix: bound generic Android raw responses @tapframe\r\n- feat(player): match overlays to TV UI @tapframe\r\n- fix(trakt): invalidate rejected refresh tokens @tapframe\r\n- Update AppLanguage.kt @haveAnIssue\r\n- Create strings.xml @haveAnIssue\r\n- feat: modern floating pill navigation bar with scroll-responsive l",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.3.0/Nuvio-v0.3.0-Enhanced.ipa",
+          "size": 42353893,
+          "sha256": "fae636e566b45626bb4cad454ef25aa0e5364ccff1b1cbe2b09f1a1510aa60df",
+          "minOSVersion": "16.1"
+        },
         {
           "version": "0.2.25",
           "date": "2026-07-16",
@@ -126,11 +144,11 @@
           "minOSVersion": "16.1"
         }
       ],
-      "version": "0.2.25",
-      "versionDate": "2026-07-16",
-      "versionDescription": "# \ud83d\ude80 Release v0.2.25\r\n\r\n## Upstream changelog:\r\n- fix: disable predictive back on Android @tapframe\r\n- ref: remove contribution summary @tapframe\r\n\r\n## Enhanced changelog:\r\n- Added Library Grid View @luqmanfadlli\r\n- iOS: Fixed Collection NavBar obstructing catalog filters @luqmanfadlli\r\n- iOS: Auto-hide Liquid Glass NavBar on scroll @luqmanfadlli\r\n- Fixed status bar visibility @luqmanfadlli\r\n\r\n---\r\n\r\n## Variants\r\n\r\n### Nuvio Full\r\nThis variant is similar to the official TestFlight version with unlocked Plugins and in-app Trailers.\r\n\r\nAltStore/SideStore source:\r\n```\r\nhttps://raw.githubusercontent.com/luqmanfadlli/NuvioMobile-iOS/main/NuvioFull.json\r\n```\r\n\r\n### Nuvio Enhanced\r\nThis custom variant includes experimental features, quality-of-life improvements, and specific bug fixes not yet avai",
-      "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.2.25/Nuvio-v0.2.25-Enhanced.ipa",
-      "size": 42250877
+      "version": "0.3.0",
+      "versionDate": "2026-07-18",
+      "versionDescription": "# \ud83d\ude80 Release v0.3.0\r\n\r\n## Upstream changelog:\r\n- fix(player): update sourceStreamsState to use mutableStateOf @tapframe\r\n- fix(player): make forced subtitle selection audio-aware @tapframe\r\n- fix(player): enforce preferred-language subtitle filtering @tapframe\r\n- fix(player): match forced subtitles to language preferences @tapframe\r\n- feat: add show catalog type option @tapframe\r\n- fix: show player streams progressively @tapframe\r\n- fix: preserve download metadata and nav layout @tapframe\r\n- fix: bound generic Android raw responses @tapframe\r\n- feat(player): match overlays to TV UI @tapframe\r\n- fix(trakt): invalidate rejected refresh tokens @tapframe\r\n- Update AppLanguage.kt @haveAnIssue\r\n- Create strings.xml @haveAnIssue\r\n- feat: modern floating pill navigation bar with scroll-responsive l",
+      "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.3.0/Nuvio-v0.3.0-Enhanced.ipa",
+      "size": 42353893
     }
   ],
   "news": []
