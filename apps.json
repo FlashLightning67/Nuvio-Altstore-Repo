@@ -18,6 +18,15 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.3.1",
+          "date": "2026-07-20",
+          "localizedDescription": "# \ud83d\ude80 Release v0.3.1  \u2014  Native P2P streaming comes to iOS\r\n\r\n## Upstream changelog:\r\n- fix(navigation): defer route cleanup until pop completes @tapframe\r\n- feat: integrate Nuvio Engine @tapframe\r\n- fix: recycled bitmap crash in Now Playing metadata @KhooLy\r\n- fix(settings): normalize section headings @tapframe\r\n- feat: add separate upcoming continue watching row @tapframe\r\n- fix: apply poster depth to remaining surfaces @tapframe\r\n- feat(library): add sortable shelf and grid layouts @tapframe\r\n- support for split ABI @tapframe\r\n\r\n## Enhanced changelog:\r\n- All changes from the upstream\r\n- feat(playback): add adjustable subtitle background transparency @luqmanfadlli \r\n- fix(ios): subtitle background opacity @luqmanfadlli\r\n- feat: add episode rating toggle in TMDB Enrichment @luqmanfadlli \r\n-",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.3.1/Nuvio-v0.3.1-Full.ipa",
+          "size": 45708628,
+          "sha256": "a455d8aa13fcac34632dc25970096c7a80dbeacd84ea195c7e3a79411fe58fd8",
+          "minOSVersion": "16.1"
+        },
+        {
           "version": "0.3.0",
           "date": "2026-07-18",
           "localizedDescription": "# \ud83d\ude80 Release v0.3.0\r\n\r\n## Upstream changelog:\r\n- fix(player): update sourceStreamsState to use mutableStateOf @tapframe\r\n- fix(player): make forced subtitle selection audio-aware @tapframe\r\n- fix(player): enforce preferred-language subtitle filtering @tapframe\r\n- fix(player): match forced subtitles to language preferences @tapframe\r\n- feat: add show catalog type option @tapframe\r\n- fix: show player streams progressively @tapframe\r\n- fix: preserve download metadata and nav layout @tapframe\r\n- fix: bound generic Android raw responses @tapframe\r\n- feat(player): match overlays to TV UI @tapframe\r\n- fix(trakt): invalidate rejected refresh tokens @tapframe\r\n- Update AppLanguage.kt @haveAnIssue\r\n- Create strings.xml @haveAnIssue\r\n- feat: modern floating pill navigation bar with scroll-responsive l",
@@ -72,11 +81,11 @@
           "minOSVersion": "16.1"
         }
       ],
-      "version": "0.3.0",
-      "versionDate": "2026-07-18",
-      "versionDescription": "# \ud83d\ude80 Release v0.3.0\r\n\r\n## Upstream changelog:\r\n- fix(player): update sourceStreamsState to use mutableStateOf @tapframe\r\n- fix(player): make forced subtitle selection audio-aware @tapframe\r\n- fix(player): enforce preferred-language subtitle filtering @tapframe\r\n- fix(player): match forced subtitles to language preferences @tapframe\r\n- feat: add show catalog type option @tapframe\r\n- fix: show player streams progressively @tapframe\r\n- fix: preserve download metadata and nav layout @tapframe\r\n- fix: bound generic Android raw responses @tapframe\r\n- feat(player): match overlays to TV UI @tapframe\r\n- fix(trakt): invalidate rejected refresh tokens @tapframe\r\n- Update AppLanguage.kt @haveAnIssue\r\n- Create strings.xml @haveAnIssue\r\n- feat: modern floating pill navigation bar with scroll-responsive l",
-      "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.3.0/Nuvio-v0.3.0-Full.ipa",
-      "size": 41659415
+      "version": "0.3.1",
+      "versionDate": "2026-07-20",
+      "versionDescription": "# \ud83d\ude80 Release v0.3.1  \u2014  Native P2P streaming comes to iOS\r\n\r\n## Upstream changelog:\r\n- fix(navigation): defer route cleanup until pop completes @tapframe\r\n- feat: integrate Nuvio Engine @tapframe\r\n- fix: recycled bitmap crash in Now Playing metadata @KhooLy\r\n- fix(settings): normalize section headings @tapframe\r\n- feat: add separate upcoming continue watching row @tapframe\r\n- fix: apply poster depth to remaining surfaces @tapframe\r\n- feat(library): add sortable shelf and grid layouts @tapframe\r\n- support for split ABI @tapframe\r\n\r\n## Enhanced changelog:\r\n- All changes from the upstream\r\n- feat(playback): add adjustable subtitle background transparency @luqmanfadlli \r\n- fix(ios): subtitle background opacity @luqmanfadlli\r\n- feat: add episode rating toggle in TMDB Enrichment @luqmanfadlli \r\n-",
+      "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.3.1/Nuvio-v0.3.1-Full.ipa",
+      "size": 45708628
     },
     {
       "name": "Nuvio Enhanced",
@@ -89,6 +98,15 @@
       "category": "entertainment",
       "screenshotURLs": [],
       "versions": [
+        {
+          "version": "0.3.1",
+          "date": "2026-07-20",
+          "localizedDescription": "# \ud83d\ude80 Release v0.3.1  \u2014  Native P2P streaming comes to iOS\r\n\r\n## Upstream changelog:\r\n- fix(navigation): defer route cleanup until pop completes @tapframe\r\n- feat: integrate Nuvio Engine @tapframe\r\n- fix: recycled bitmap crash in Now Playing metadata @KhooLy\r\n- fix(settings): normalize section headings @tapframe\r\n- feat: add separate upcoming continue watching row @tapframe\r\n- fix: apply poster depth to remaining surfaces @tapframe\r\n- feat(library): add sortable shelf and grid layouts @tapframe\r\n- support for split ABI @tapframe\r\n\r\n## Enhanced changelog:\r\n- All changes from the upstream\r\n- feat(playback): add adjustable subtitle background transparency @luqmanfadlli \r\n- fix(ios): subtitle background opacity @luqmanfadlli\r\n- feat: add episode rating toggle in TMDB Enrichment @luqmanfadlli \r\n-",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.3.1/Nuvio-v0.3.1-Enhanced.ipa",
+          "size": 46410677,
+          "sha256": "7b8361a3ccbb306d7fe594c25848d71bbf960758e7d4ddc314c2c22081c0bffc",
+          "minOSVersion": "16.1"
+        },
         {
           "version": "0.3.0",
           "date": "2026-07-18",
@@ -144,11 +162,11 @@
           "minOSVersion": "16.1"
         }
       ],
-      "version": "0.3.0",
-      "versionDate": "2026-07-18",
-      "versionDescription": "# \ud83d\ude80 Release v0.3.0\r\n\r\n## Upstream changelog:\r\n- fix(player): update sourceStreamsState to use mutableStateOf @tapframe\r\n- fix(player): make forced subtitle selection audio-aware @tapframe\r\n- fix(player): enforce preferred-language subtitle filtering @tapframe\r\n- fix(player): match forced subtitles to language preferences @tapframe\r\n- feat: add show catalog type option @tapframe\r\n- fix: show player streams progressively @tapframe\r\n- fix: preserve download metadata and nav layout @tapframe\r\n- fix: bound generic Android raw responses @tapframe\r\n- feat(player): match overlays to TV UI @tapframe\r\n- fix(trakt): invalidate rejected refresh tokens @tapframe\r\n- Update AppLanguage.kt @haveAnIssue\r\n- Create strings.xml @haveAnIssue\r\n- feat: modern floating pill navigation bar with scroll-responsive l",
-      "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.3.0/Nuvio-v0.3.0-Enhanced.ipa",
-      "size": 42353893
+      "version": "0.3.1",
+      "versionDate": "2026-07-20",
+      "versionDescription": "# \ud83d\ude80 Release v0.3.1  \u2014  Native P2P streaming comes to iOS\r\n\r\n## Upstream changelog:\r\n- fix(navigation): defer route cleanup until pop completes @tapframe\r\n- feat: integrate Nuvio Engine @tapframe\r\n- fix: recycled bitmap crash in Now Playing metadata @KhooLy\r\n- fix(settings): normalize section headings @tapframe\r\n- feat: add separate upcoming continue watching row @tapframe\r\n- fix: apply poster depth to remaining surfaces @tapframe\r\n- feat(library): add sortable shelf and grid layouts @tapframe\r\n- support for split ABI @tapframe\r\n\r\n## Enhanced changelog:\r\n- All changes from the upstream\r\n- feat(playback): add adjustable subtitle background transparency @luqmanfadlli \r\n- fix(ios): subtitle background opacity @luqmanfadlli\r\n- feat: add episode rating toggle in TMDB Enrichment @luqmanfadlli \r\n-",
+      "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.3.1/Nuvio-v0.3.1-Enhanced.ipa",
+      "size": 46410677
     }
   ],
   "news": []
