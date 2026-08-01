@@ -18,6 +18,15 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.3.2",
+          "date": "2026-07-27",
+          "localizedDescription": "# \ud83d\ude80 Release v0.3.2\r\n\r\n## Upstream changelog:\r\n- feat(auth): register official client devices @tapframe\r\n- Update Play account and foreground service compliance @tapframe\r\n- fix(ui): clip CardDepthEffect sheen overlay to shape path @quiettinkerer\r\n- refactor: remove catalog header accent line @tapframe\r\n- feat(library): search the cloud library @Laskco\r\n- feat(mdblist): add MyAnimeList (MAL) rating from MDBList API @guuilp\r\n- fix: per-profile isolation for Trakt auth and storage @guuilp\r\n- fix(android): correct fill/zoom image based subtitle rendering @darkflame91\r\n\r\n## Enhanced changelog:\r\n- All changes from the upstream\r\n- fix(ios): subtitle opaque-box @luqmanfadlli \r\n- feat: add Live TV tab to floating pil navigation @luqmanfadlli\r\n- fix(android): fix ExoPlayer playback not starting @luq",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.3.2/Nuvio-v0.3.2-Full.ipa",
+          "size": 45718530,
+          "sha256": "fcacd8a829a4a2d05e387076e629ee1ac3133698e7bcf295e5e03bd2e95560e8",
+          "minOSVersion": "16.1"
+        },
+        {
           "version": "0.3.1",
           "date": "2026-07-20",
           "localizedDescription": "# \ud83d\ude80 Release v0.3.1  \u2014  Native P2P streaming comes to iOS\r\n\r\n## Upstream changelog:\r\n- fix(navigation): defer route cleanup until pop completes @tapframe\r\n- feat: integrate Nuvio Engine @tapframe\r\n- fix: recycled bitmap crash in Now Playing metadata @KhooLy\r\n- fix(settings): normalize section headings @tapframe\r\n- feat: add separate upcoming continue watching row @tapframe\r\n- fix: apply poster depth to remaining surfaces @tapframe\r\n- feat(library): add sortable shelf and grid layouts @tapframe\r\n- support for split ABI @tapframe\r\n\r\n## Enhanced changelog:\r\n- All changes from the upstream\r\n- feat(playback): add adjustable subtitle background transparency @luqmanfadlli \r\n- fix(ios): subtitle background opacity @luqmanfadlli\r\n- feat: add episode rating toggle in TMDB Enrichment @luqmanfadlli \r\n-",
@@ -81,11 +90,11 @@
           "minOSVersion": "16.1"
         }
       ],
-      "version": "0.3.1",
-      "versionDate": "2026-07-20",
-      "versionDescription": "# \ud83d\ude80 Release v0.3.1  \u2014  Native P2P streaming comes to iOS\r\n\r\n## Upstream changelog:\r\n- fix(navigation): defer route cleanup until pop completes @tapframe\r\n- feat: integrate Nuvio Engine @tapframe\r\n- fix: recycled bitmap crash in Now Playing metadata @KhooLy\r\n- fix(settings): normalize section headings @tapframe\r\n- feat: add separate upcoming continue watching row @tapframe\r\n- fix: apply poster depth to remaining surfaces @tapframe\r\n- feat(library): add sortable shelf and grid layouts @tapframe\r\n- support for split ABI @tapframe\r\n\r\n## Enhanced changelog:\r\n- All changes from the upstream\r\n- feat(playback): add adjustable subtitle background transparency @luqmanfadlli \r\n- fix(ios): subtitle background opacity @luqmanfadlli\r\n- feat: add episode rating toggle in TMDB Enrichment @luqmanfadlli \r\n-",
-      "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.3.1/Nuvio-v0.3.1-Full.ipa",
-      "size": 45708628
+      "version": "0.3.2",
+      "versionDate": "2026-07-27",
+      "versionDescription": "# \ud83d\ude80 Release v0.3.2\r\n\r\n## Upstream changelog:\r\n- feat(auth): register official client devices @tapframe\r\n- Update Play account and foreground service compliance @tapframe\r\n- fix(ui): clip CardDepthEffect sheen overlay to shape path @quiettinkerer\r\n- refactor: remove catalog header accent line @tapframe\r\n- feat(library): search the cloud library @Laskco\r\n- feat(mdblist): add MyAnimeList (MAL) rating from MDBList API @guuilp\r\n- fix: per-profile isolation for Trakt auth and storage @guuilp\r\n- fix(android): correct fill/zoom image based subtitle rendering @darkflame91\r\n\r\n## Enhanced changelog:\r\n- All changes from the upstream\r\n- fix(ios): subtitle opaque-box @luqmanfadlli \r\n- feat: add Live TV tab to floating pil navigation @luqmanfadlli\r\n- fix(android): fix ExoPlayer playback not starting @luq",
+      "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.3.2/Nuvio-v0.3.2-Full.ipa",
+      "size": 45718530
     },
     {
       "name": "Nuvio Enhanced",
@@ -98,6 +107,15 @@
       "category": "entertainment",
       "screenshotURLs": [],
       "versions": [
+        {
+          "version": "0.3.2",
+          "date": "2026-07-27",
+          "localizedDescription": "# \ud83d\ude80 Release v0.3.2\r\n\r\n## Upstream changelog:\r\n- feat(auth): register official client devices @tapframe\r\n- Update Play account and foreground service compliance @tapframe\r\n- fix(ui): clip CardDepthEffect sheen overlay to shape path @quiettinkerer\r\n- refactor: remove catalog header accent line @tapframe\r\n- feat(library): search the cloud library @Laskco\r\n- feat(mdblist): add MyAnimeList (MAL) rating from MDBList API @guuilp\r\n- fix: per-profile isolation for Trakt auth and storage @guuilp\r\n- fix(android): correct fill/zoom image based subtitle rendering @darkflame91\r\n\r\n## Enhanced changelog:\r\n- All changes from the upstream\r\n- fix(ios): subtitle opaque-box @luqmanfadlli \r\n- feat: add Live TV tab to floating pil navigation @luqmanfadlli\r\n- fix(android): fix ExoPlayer playback not starting @luq",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.3.2/Nuvio-v0.3.2-Enhanced.ipa",
+          "size": 46590269,
+          "sha256": "f1b2e1f3c0edd38fcaf3a58afaa689f3c5f6b34ba453df524dad3455a36af2d2",
+          "minOSVersion": "16.1"
+        },
         {
           "version": "0.3.1",
           "date": "2026-07-20",
@@ -162,11 +180,11 @@
           "minOSVersion": "16.1"
         }
       ],
-      "version": "0.3.1",
-      "versionDate": "2026-07-20",
-      "versionDescription": "# \ud83d\ude80 Release v0.3.1  \u2014  Native P2P streaming comes to iOS\r\n\r\n## Upstream changelog:\r\n- fix(navigation): defer route cleanup until pop completes @tapframe\r\n- feat: integrate Nuvio Engine @tapframe\r\n- fix: recycled bitmap crash in Now Playing metadata @KhooLy\r\n- fix(settings): normalize section headings @tapframe\r\n- feat: add separate upcoming continue watching row @tapframe\r\n- fix: apply poster depth to remaining surfaces @tapframe\r\n- feat(library): add sortable shelf and grid layouts @tapframe\r\n- support for split ABI @tapframe\r\n\r\n## Enhanced changelog:\r\n- All changes from the upstream\r\n- feat(playback): add adjustable subtitle background transparency @luqmanfadlli \r\n- fix(ios): subtitle background opacity @luqmanfadlli\r\n- feat: add episode rating toggle in TMDB Enrichment @luqmanfadlli \r\n-",
-      "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.3.1/Nuvio-v0.3.1-Enhanced.ipa",
-      "size": 46410677
+      "version": "0.3.2",
+      "versionDate": "2026-07-27",
+      "versionDescription": "# \ud83d\ude80 Release v0.3.2\r\n\r\n## Upstream changelog:\r\n- feat(auth): register official client devices @tapframe\r\n- Update Play account and foreground service compliance @tapframe\r\n- fix(ui): clip CardDepthEffect sheen overlay to shape path @quiettinkerer\r\n- refactor: remove catalog header accent line @tapframe\r\n- feat(library): search the cloud library @Laskco\r\n- feat(mdblist): add MyAnimeList (MAL) rating from MDBList API @guuilp\r\n- fix: per-profile isolation for Trakt auth and storage @guuilp\r\n- fix(android): correct fill/zoom image based subtitle rendering @darkflame91\r\n\r\n## Enhanced changelog:\r\n- All changes from the upstream\r\n- fix(ios): subtitle opaque-box @luqmanfadlli \r\n- feat: add Live TV tab to floating pil navigation @luqmanfadlli\r\n- fix(android): fix ExoPlayer playback not starting @luq",
+      "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.3.2/Nuvio-v0.3.2-Enhanced.ipa",
+      "size": 46590269
     }
   ],
   "news": []
