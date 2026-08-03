@@ -18,6 +18,15 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.4.1",
+          "date": "2026-08-03",
+          "localizedDescription": "# \ud83d\ude80 Release v0.4.1\r\n\r\n## Upstream changelog:\r\n- fix: match Trakt watched markers across IDs @tapframe\r\n- feat: add selectable app icons @tapframe\r\n- fix: split plugin source cache from metadata (NUVIO-MOBILE-1) @tapframe\r\n- fix: dispatch playback service starts off main (NUVIO-MOBILE-Q0) @tapframe\r\n- fix: skip redundant Trakt watched refresh (NUVIO-MOBILE-Q3) @tapframe\r\n- fix: serialize watched state snapshots (NUVIO-MOBILE-PW NUVIO-MOBILE-PY NUVIO-MOBILE-Q2) @tapframe\r\n- fix: contain Trakt watched rate limits (NUVIO-MOBILE-Q1) @tapframe\r\n- fix: preserve large Trakt watched responses (NUVIO-MOBILE-Q4) @tapframe\r\n- remove expanded action button shadow @tapframe\r\n- fix: route Kitsu/MAL IDs for skip intro and correct AniSkip types query @Sumanth1602\r\n- Improve Greek (el) localization coverage",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.4.1/Nuvio-v0.4.1-Full.ipa",
+          "size": 48167572,
+          "sha256": "7a7d682d29ba4a3e35ae01ac7306f180e03aa1927efed19fc642ebb0719074ed",
+          "minOSVersion": "16.1"
+        },
+        {
           "version": "0.4.0",
           "date": "2026-08-02",
           "localizedDescription": "# \ud83d\ude80 Release v0.4.0 - New SIMKL Tracking\r\n\r\n## Upstream changelog:\r\nIntroducing SIMKL as a new native tracking provider @tapframe @skoruppa\r\n- fix: handle torrent cache pressure on Android @tapframe\r\n- Take videoid from meta for track services in progress items @skoruppa\r\n- fix(search): remove recent history icons @tapframe\r\n- Add badges to TmdbEntityBrowser @skoruppa\r\n- Add Slovak language strings for settings and features @mmsw91\r\n- Update Slovak translations for parental content strings @mmsw91\r\n- Fix \"mark as unwatched\" for whole series @skoruppa\r\n- fix(auth): sanitize authentication errors @tapframe\r\n- fix(profiles): activate selected profile once @tapframe\r\n- fix(trakt): restore seek scrobble updates @tapframe\r\n\r\n## Enhanced changelog:\r\n- All changes from the upstream\r\n- Refactor subt",
@@ -99,11 +108,11 @@
           "minOSVersion": "16.1"
         }
       ],
-      "version": "0.4.0",
-      "versionDate": "2026-08-02",
-      "versionDescription": "# \ud83d\ude80 Release v0.4.0 - New SIMKL Tracking\r\n\r\n## Upstream changelog:\r\nIntroducing SIMKL as a new native tracking provider @tapframe @skoruppa\r\n- fix: handle torrent cache pressure on Android @tapframe\r\n- Take videoid from meta for track services in progress items @skoruppa\r\n- fix(search): remove recent history icons @tapframe\r\n- Add badges to TmdbEntityBrowser @skoruppa\r\n- Add Slovak language strings for settings and features @mmsw91\r\n- Update Slovak translations for parental content strings @mmsw91\r\n- Fix \"mark as unwatched\" for whole series @skoruppa\r\n- fix(auth): sanitize authentication errors @tapframe\r\n- fix(profiles): activate selected profile once @tapframe\r\n- fix(trakt): restore seek scrobble updates @tapframe\r\n\r\n## Enhanced changelog:\r\n- All changes from the upstream\r\n- Refactor subt",
-      "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.4.0/Nuvio-v0.4.0-Full.ipa",
-      "size": 46190861
+      "version": "0.4.1",
+      "versionDate": "2026-08-03",
+      "versionDescription": "# \ud83d\ude80 Release v0.4.1\r\n\r\n## Upstream changelog:\r\n- fix: match Trakt watched markers across IDs @tapframe\r\n- feat: add selectable app icons @tapframe\r\n- fix: split plugin source cache from metadata (NUVIO-MOBILE-1) @tapframe\r\n- fix: dispatch playback service starts off main (NUVIO-MOBILE-Q0) @tapframe\r\n- fix: skip redundant Trakt watched refresh (NUVIO-MOBILE-Q3) @tapframe\r\n- fix: serialize watched state snapshots (NUVIO-MOBILE-PW NUVIO-MOBILE-PY NUVIO-MOBILE-Q2) @tapframe\r\n- fix: contain Trakt watched rate limits (NUVIO-MOBILE-Q1) @tapframe\r\n- fix: preserve large Trakt watched responses (NUVIO-MOBILE-Q4) @tapframe\r\n- remove expanded action button shadow @tapframe\r\n- fix: route Kitsu/MAL IDs for skip intro and correct AniSkip types query @Sumanth1602\r\n- Improve Greek (el) localization coverage",
+      "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.4.1/Nuvio-v0.4.1-Full.ipa",
+      "size": 48167572
     },
     {
       "name": "Nuvio Enhanced",
@@ -116,6 +125,15 @@
       "category": "entertainment",
       "screenshotURLs": [],
       "versions": [
+        {
+          "version": "0.4.1",
+          "date": "2026-08-03",
+          "localizedDescription": "# \ud83d\ude80 Release v0.4.1\r\n\r\n## Upstream changelog:\r\n- fix: match Trakt watched markers across IDs @tapframe\r\n- feat: add selectable app icons @tapframe\r\n- fix: split plugin source cache from metadata (NUVIO-MOBILE-1) @tapframe\r\n- fix: dispatch playback service starts off main (NUVIO-MOBILE-Q0) @tapframe\r\n- fix: skip redundant Trakt watched refresh (NUVIO-MOBILE-Q3) @tapframe\r\n- fix: serialize watched state snapshots (NUVIO-MOBILE-PW NUVIO-MOBILE-PY NUVIO-MOBILE-Q2) @tapframe\r\n- fix: contain Trakt watched rate limits (NUVIO-MOBILE-Q1) @tapframe\r\n- fix: preserve large Trakt watched responses (NUVIO-MOBILE-Q4) @tapframe\r\n- remove expanded action button shadow @tapframe\r\n- fix: route Kitsu/MAL IDs for skip intro and correct AniSkip types query @Sumanth1602\r\n- Improve Greek (el) localization coverage",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.4.1/Nuvio-v0.4.1-Enhanced.ipa",
+          "size": 49115574,
+          "sha256": "76fece36ee28554246970b502f0e0602e5554f74c685077aa62a005a120cb793",
+          "minOSVersion": "16.1"
+        },
         {
           "version": "0.4.0",
           "date": "2026-08-02",
@@ -198,11 +216,11 @@
           "minOSVersion": "16.1"
         }
       ],
-      "version": "0.4.0",
-      "versionDate": "2026-08-02",
-      "versionDescription": "# \ud83d\ude80 Release v0.4.0 - New SIMKL Tracking\r\n\r\n## Upstream changelog:\r\nIntroducing SIMKL as a new native tracking provider @tapframe @skoruppa\r\n- fix: handle torrent cache pressure on Android @tapframe\r\n- Take videoid from meta for track services in progress items @skoruppa\r\n- fix(search): remove recent history icons @tapframe\r\n- Add badges to TmdbEntityBrowser @skoruppa\r\n- Add Slovak language strings for settings and features @mmsw91\r\n- Update Slovak translations for parental content strings @mmsw91\r\n- Fix \"mark as unwatched\" for whole series @skoruppa\r\n- fix(auth): sanitize authentication errors @tapframe\r\n- fix(profiles): activate selected profile once @tapframe\r\n- fix(trakt): restore seek scrobble updates @tapframe\r\n\r\n## Enhanced changelog:\r\n- All changes from the upstream\r\n- Refactor subt",
-      "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.4.0/Nuvio-v0.4.0-Enhanced.ipa",
-      "size": 47078757
+      "version": "0.4.1",
+      "versionDate": "2026-08-03",
+      "versionDescription": "# \ud83d\ude80 Release v0.4.1\r\n\r\n## Upstream changelog:\r\n- fix: match Trakt watched markers across IDs @tapframe\r\n- feat: add selectable app icons @tapframe\r\n- fix: split plugin source cache from metadata (NUVIO-MOBILE-1) @tapframe\r\n- fix: dispatch playback service starts off main (NUVIO-MOBILE-Q0) @tapframe\r\n- fix: skip redundant Trakt watched refresh (NUVIO-MOBILE-Q3) @tapframe\r\n- fix: serialize watched state snapshots (NUVIO-MOBILE-PW NUVIO-MOBILE-PY NUVIO-MOBILE-Q2) @tapframe\r\n- fix: contain Trakt watched rate limits (NUVIO-MOBILE-Q1) @tapframe\r\n- fix: preserve large Trakt watched responses (NUVIO-MOBILE-Q4) @tapframe\r\n- remove expanded action button shadow @tapframe\r\n- fix: route Kitsu/MAL IDs for skip intro and correct AniSkip types query @Sumanth1602\r\n- Improve Greek (el) localization coverage",
+      "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.4.1/Nuvio-v0.4.1-Enhanced.ipa",
+      "size": 49115574
     }
   ],
   "news": []
