@@ -18,6 +18,15 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.4.2",
+          "date": "2026-08-05",
+          "localizedDescription": "# \ud83d\ude80 Release v0.4.2\r\n\r\n## Upstream changelog:\r\n- fix(player): align addon subtitle loading with TV @tapframe\r\n- fix(watching): align next-up release-day behavior @tapframe\r\n- fix(player): observe episode stream state @tapframe\r\n- add isMovieEntry @skoruppa\r\n- Fix anime movies watched checkmarks for simkl @skoruppa\r\n- Stabilize in progress items and add coil cache control @skoruppa\r\n- i18n: complete Turkish translations @halibiram\r\n\r\n## Enhanced changelog:\r\n- All changes from the upstream\r\n- fix(ios): morphed tab bar padding @luqmanfadlli \r\n- fix(ios): resolve HDR issue in PiP @luqmanfadlli\r\n- feat: add SIMKL device code auth method @luqmanfadlli\r\n- feat: enable alternative auth method for Trakt and SIMKL @luqmanfadlli \r\n- fix(ios): improve morphed TabBar visibility @luqmanfadlli \r\n\r\n## Vari",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.4.2/Nuvio-v0.4.2-Full.ipa",
+          "size": 48227689,
+          "sha256": "f9610f9865228cda774c638bc44ad0fa36358acb38226735752bfc08a06330bd",
+          "minOSVersion": "16.1"
+        },
+        {
           "version": "0.4.1",
           "date": "2026-08-03",
           "localizedDescription": "# \ud83d\ude80 Release v0.4.1\r\n\r\n## Upstream changelog:\r\n- fix: match Trakt watched markers across IDs @tapframe\r\n- feat: add selectable app icons @tapframe\r\n- fix: split plugin source cache from metadata (NUVIO-MOBILE-1) @tapframe\r\n- fix: dispatch playback service starts off main (NUVIO-MOBILE-Q0) @tapframe\r\n- fix: skip redundant Trakt watched refresh (NUVIO-MOBILE-Q3) @tapframe\r\n- fix: serialize watched state snapshots (NUVIO-MOBILE-PW NUVIO-MOBILE-PY NUVIO-MOBILE-Q2) @tapframe\r\n- fix: contain Trakt watched rate limits (NUVIO-MOBILE-Q1) @tapframe\r\n- fix: preserve large Trakt watched responses (NUVIO-MOBILE-Q4) @tapframe\r\n- remove expanded action button shadow @tapframe\r\n- fix: route Kitsu/MAL IDs for skip intro and correct AniSkip types query @Sumanth1602\r\n- Improve Greek (el) localization coverage",
@@ -108,11 +117,11 @@
           "minOSVersion": "16.1"
         }
       ],
-      "version": "0.4.1",
-      "versionDate": "2026-08-03",
-      "versionDescription": "# \ud83d\ude80 Release v0.4.1\r\n\r\n## Upstream changelog:\r\n- fix: match Trakt watched markers across IDs @tapframe\r\n- feat: add selectable app icons @tapframe\r\n- fix: split plugin source cache from metadata (NUVIO-MOBILE-1) @tapframe\r\n- fix: dispatch playback service starts off main (NUVIO-MOBILE-Q0) @tapframe\r\n- fix: skip redundant Trakt watched refresh (NUVIO-MOBILE-Q3) @tapframe\r\n- fix: serialize watched state snapshots (NUVIO-MOBILE-PW NUVIO-MOBILE-PY NUVIO-MOBILE-Q2) @tapframe\r\n- fix: contain Trakt watched rate limits (NUVIO-MOBILE-Q1) @tapframe\r\n- fix: preserve large Trakt watched responses (NUVIO-MOBILE-Q4) @tapframe\r\n- remove expanded action button shadow @tapframe\r\n- fix: route Kitsu/MAL IDs for skip intro and correct AniSkip types query @Sumanth1602\r\n- Improve Greek (el) localization coverage",
-      "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.4.1/Nuvio-v0.4.1-Full.ipa",
-      "size": 48167572
+      "version": "0.4.2",
+      "versionDate": "2026-08-05",
+      "versionDescription": "# \ud83d\ude80 Release v0.4.2\r\n\r\n## Upstream changelog:\r\n- fix(player): align addon subtitle loading with TV @tapframe\r\n- fix(watching): align next-up release-day behavior @tapframe\r\n- fix(player): observe episode stream state @tapframe\r\n- add isMovieEntry @skoruppa\r\n- Fix anime movies watched checkmarks for simkl @skoruppa\r\n- Stabilize in progress items and add coil cache control @skoruppa\r\n- i18n: complete Turkish translations @halibiram\r\n\r\n## Enhanced changelog:\r\n- All changes from the upstream\r\n- fix(ios): morphed tab bar padding @luqmanfadlli \r\n- fix(ios): resolve HDR issue in PiP @luqmanfadlli\r\n- feat: add SIMKL device code auth method @luqmanfadlli\r\n- feat: enable alternative auth method for Trakt and SIMKL @luqmanfadlli \r\n- fix(ios): improve morphed TabBar visibility @luqmanfadlli \r\n\r\n## Vari",
+      "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.4.2/Nuvio-v0.4.2-Full.ipa",
+      "size": 48227689
     },
     {
       "name": "Nuvio Enhanced",
@@ -125,6 +134,15 @@
       "category": "entertainment",
       "screenshotURLs": [],
       "versions": [
+        {
+          "version": "0.4.2",
+          "date": "2026-08-05",
+          "localizedDescription": "# \ud83d\ude80 Release v0.4.2\r\n\r\n## Upstream changelog:\r\n- fix(player): align addon subtitle loading with TV @tapframe\r\n- fix(watching): align next-up release-day behavior @tapframe\r\n- fix(player): observe episode stream state @tapframe\r\n- add isMovieEntry @skoruppa\r\n- Fix anime movies watched checkmarks for simkl @skoruppa\r\n- Stabilize in progress items and add coil cache control @skoruppa\r\n- i18n: complete Turkish translations @halibiram\r\n\r\n## Enhanced changelog:\r\n- All changes from the upstream\r\n- fix(ios): morphed tab bar padding @luqmanfadlli \r\n- fix(ios): resolve HDR issue in PiP @luqmanfadlli\r\n- feat: add SIMKL device code auth method @luqmanfadlli\r\n- feat: enable alternative auth method for Trakt and SIMKL @luqmanfadlli \r\n- fix(ios): improve morphed TabBar visibility @luqmanfadlli \r\n\r\n## Vari",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.4.2/Nuvio-v0.4.2-Enhanced.ipa",
+          "size": 49203162,
+          "sha256": "06b7f37225d712329b880bca6857f41456d2e97b525ca7527ebb88a1f8d3bcfe",
+          "minOSVersion": "16.1"
+        },
         {
           "version": "0.4.1",
           "date": "2026-08-03",
@@ -216,11 +234,11 @@
           "minOSVersion": "16.1"
         }
       ],
-      "version": "0.4.1",
-      "versionDate": "2026-08-03",
-      "versionDescription": "# \ud83d\ude80 Release v0.4.1\r\n\r\n## Upstream changelog:\r\n- fix: match Trakt watched markers across IDs @tapframe\r\n- feat: add selectable app icons @tapframe\r\n- fix: split plugin source cache from metadata (NUVIO-MOBILE-1) @tapframe\r\n- fix: dispatch playback service starts off main (NUVIO-MOBILE-Q0) @tapframe\r\n- fix: skip redundant Trakt watched refresh (NUVIO-MOBILE-Q3) @tapframe\r\n- fix: serialize watched state snapshots (NUVIO-MOBILE-PW NUVIO-MOBILE-PY NUVIO-MOBILE-Q2) @tapframe\r\n- fix: contain Trakt watched rate limits (NUVIO-MOBILE-Q1) @tapframe\r\n- fix: preserve large Trakt watched responses (NUVIO-MOBILE-Q4) @tapframe\r\n- remove expanded action button shadow @tapframe\r\n- fix: route Kitsu/MAL IDs for skip intro and correct AniSkip types query @Sumanth1602\r\n- Improve Greek (el) localization coverage",
-      "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.4.1/Nuvio-v0.4.1-Enhanced.ipa",
-      "size": 49115574
+      "version": "0.4.2",
+      "versionDate": "2026-08-05",
+      "versionDescription": "# \ud83d\ude80 Release v0.4.2\r\n\r\n## Upstream changelog:\r\n- fix(player): align addon subtitle loading with TV @tapframe\r\n- fix(watching): align next-up release-day behavior @tapframe\r\n- fix(player): observe episode stream state @tapframe\r\n- add isMovieEntry @skoruppa\r\n- Fix anime movies watched checkmarks for simkl @skoruppa\r\n- Stabilize in progress items and add coil cache control @skoruppa\r\n- i18n: complete Turkish translations @halibiram\r\n\r\n## Enhanced changelog:\r\n- All changes from the upstream\r\n- fix(ios): morphed tab bar padding @luqmanfadlli \r\n- fix(ios): resolve HDR issue in PiP @luqmanfadlli\r\n- feat: add SIMKL device code auth method @luqmanfadlli\r\n- feat: enable alternative auth method for Trakt and SIMKL @luqmanfadlli \r\n- fix(ios): improve morphed TabBar visibility @luqmanfadlli \r\n\r\n## Vari",
+      "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.4.2/Nuvio-v0.4.2-Enhanced.ipa",
+      "size": 49203162
     }
   ],
   "news": []
