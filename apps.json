@@ -18,6 +18,15 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.4.5",
+          "date": "2026-08-13",
+          "localizedDescription": "# \ud83d\ude80 Release v0.4.5\r\n\r\n## Upstream changelog:\r\n- fix: balance episode progress spacing @tapframe\r\n- fix: honor addon cache control @tapframe\r\n- fix(ios): allow smaller subtitle sizes @tapframe\r\n- fix: control disintegrate animation @tapframe\r\n\r\n## Enhanced changelog:\r\n- sync upstream only\r\n\r\n## Variants\r\n\r\n### Nuvio Full\r\nThis variant is built from the official source without any modifications or additions.\r\n\r\nAltStore/SideStore source:\r\n```\r\nhttps://raw.githubusercontent.com/luqmanfadlli/NuvioMobile-iOS/main/NuvioFull.json\r\n```\r\n\r\n### Nuvio Enhanced\r\nThis custom variant includes experimental features, quality-of-life improvements, and specific bug fixes not yet available in the upstream repository.\r\n\r\nAltStore/SideStore source:\r\n```\r\nhttps://raw.githubusercontent.com/luqmanfadlli/NuvioMobi",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.4.5/Nuvio-v0.4.5-Full.ipa",
+          "size": 48321307,
+          "sha256": "6ecfd8f066d9711b4f1c00953e983f10d58e9f24351a794f150b5d0caa11f0fc",
+          "minOSVersion": "16.1"
+        },
+        {
           "version": "0.4.3",
           "date": "2026-08-10",
           "localizedDescription": "# \ud83d\ude80 Release v0.4.3\r\n\r\n## Upstream changelog:\r\n- fix: persist Trakt watched state @tapframe\r\n- i18n: fix Greek plugins entry title and error string wording @nosvasedis\r\n- i18n: add missing Greek Simkl library strings @nosvasedis\r\n- fix(simkl): update library poster res @tapframe\r\n- feat(sync): sync provider credentials across clients @tapframe\r\n- i18n: complete Greek (el) translations @nosvasedis\r\n- Update Dutch (nl) strings and reorder nl locale @mronion212\r\n- Add new Slovak strings for Simkl integration @mmsw91\r\n\r\n## Enhanced changelog:\r\n- All changes from the upstream\r\n- fix: change mark as watched icon to eye icon @albertovinaroz\r\n- feat(tabbar): add profile switcher long-press on Profile tab, add drag drift and polish liquid glass bridge @albertovinaroz\r\n\r\n## Variants\r\n\r\n### Nuvio Full",
@@ -126,11 +135,11 @@
           "minOSVersion": "16.1"
         }
       ],
-      "version": "0.4.3",
-      "versionDate": "2026-08-10",
-      "versionDescription": "# \ud83d\ude80 Release v0.4.3\r\n\r\n## Upstream changelog:\r\n- fix: persist Trakt watched state @tapframe\r\n- i18n: fix Greek plugins entry title and error string wording @nosvasedis\r\n- i18n: add missing Greek Simkl library strings @nosvasedis\r\n- fix(simkl): update library poster res @tapframe\r\n- feat(sync): sync provider credentials across clients @tapframe\r\n- i18n: complete Greek (el) translations @nosvasedis\r\n- Update Dutch (nl) strings and reorder nl locale @mronion212\r\n- Add new Slovak strings for Simkl integration @mmsw91\r\n\r\n## Enhanced changelog:\r\n- All changes from the upstream\r\n- fix: change mark as watched icon to eye icon @albertovinaroz\r\n- feat(tabbar): add profile switcher long-press on Profile tab, add drag drift and polish liquid glass bridge @albertovinaroz\r\n\r\n## Variants\r\n\r\n### Nuvio Full",
-      "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.4.3/Nuvio-v0.4.3-Full.ipa",
-      "size": 48278846
+      "version": "0.4.5",
+      "versionDate": "2026-08-13",
+      "versionDescription": "# \ud83d\ude80 Release v0.4.5\r\n\r\n## Upstream changelog:\r\n- fix: balance episode progress spacing @tapframe\r\n- fix: honor addon cache control @tapframe\r\n- fix(ios): allow smaller subtitle sizes @tapframe\r\n- fix: control disintegrate animation @tapframe\r\n\r\n## Enhanced changelog:\r\n- sync upstream only\r\n\r\n## Variants\r\n\r\n### Nuvio Full\r\nThis variant is built from the official source without any modifications or additions.\r\n\r\nAltStore/SideStore source:\r\n```\r\nhttps://raw.githubusercontent.com/luqmanfadlli/NuvioMobile-iOS/main/NuvioFull.json\r\n```\r\n\r\n### Nuvio Enhanced\r\nThis custom variant includes experimental features, quality-of-life improvements, and specific bug fixes not yet available in the upstream repository.\r\n\r\nAltStore/SideStore source:\r\n```\r\nhttps://raw.githubusercontent.com/luqmanfadlli/NuvioMobi",
+      "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.4.5/Nuvio-v0.4.5-Full.ipa",
+      "size": 48321307
     },
     {
       "name": "Nuvio Enhanced",
@@ -143,6 +152,15 @@
       "category": "entertainment",
       "screenshotURLs": [],
       "versions": [
+        {
+          "version": "0.4.5",
+          "date": "2026-08-13",
+          "localizedDescription": "# \ud83d\ude80 Release v0.4.5\r\n\r\n## Upstream changelog:\r\n- fix: balance episode progress spacing @tapframe\r\n- fix: honor addon cache control @tapframe\r\n- fix(ios): allow smaller subtitle sizes @tapframe\r\n- fix: control disintegrate animation @tapframe\r\n\r\n## Enhanced changelog:\r\n- sync upstream only\r\n\r\n## Variants\r\n\r\n### Nuvio Full\r\nThis variant is built from the official source without any modifications or additions.\r\n\r\nAltStore/SideStore source:\r\n```\r\nhttps://raw.githubusercontent.com/luqmanfadlli/NuvioMobile-iOS/main/NuvioFull.json\r\n```\r\n\r\n### Nuvio Enhanced\r\nThis custom variant includes experimental features, quality-of-life improvements, and specific bug fixes not yet available in the upstream repository.\r\n\r\nAltStore/SideStore source:\r\n```\r\nhttps://raw.githubusercontent.com/luqmanfadlli/NuvioMobi",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.4.5/Nuvio-v0.4.5-Enhanced.ipa",
+          "size": 49333635,
+          "sha256": "c3e38dd3cd3993edf12b1bcb8faa5dee789e93915852bbdfc401a059f4d1dcf7",
+          "minOSVersion": "16.1"
+        },
         {
           "version": "0.4.3",
           "date": "2026-08-10",
@@ -252,11 +270,11 @@
           "minOSVersion": "16.1"
         }
       ],
-      "version": "0.4.3",
-      "versionDate": "2026-08-10",
-      "versionDescription": "# \ud83d\ude80 Release v0.4.3\r\n\r\n## Upstream changelog:\r\n- fix: persist Trakt watched state @tapframe\r\n- i18n: fix Greek plugins entry title and error string wording @nosvasedis\r\n- i18n: add missing Greek Simkl library strings @nosvasedis\r\n- fix(simkl): update library poster res @tapframe\r\n- feat(sync): sync provider credentials across clients @tapframe\r\n- i18n: complete Greek (el) translations @nosvasedis\r\n- Update Dutch (nl) strings and reorder nl locale @mronion212\r\n- Add new Slovak strings for Simkl integration @mmsw91\r\n\r\n## Enhanced changelog:\r\n- All changes from the upstream\r\n- fix: change mark as watched icon to eye icon @albertovinaroz\r\n- feat(tabbar): add profile switcher long-press on Profile tab, add drag drift and polish liquid glass bridge @albertovinaroz\r\n\r\n## Variants\r\n\r\n### Nuvio Full",
-      "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.4.3/Nuvio-v0.4.3-Enhanced.ipa",
-      "size": 49325934
+      "version": "0.4.5",
+      "versionDate": "2026-08-13",
+      "versionDescription": "# \ud83d\ude80 Release v0.4.5\r\n\r\n## Upstream changelog:\r\n- fix: balance episode progress spacing @tapframe\r\n- fix: honor addon cache control @tapframe\r\n- fix(ios): allow smaller subtitle sizes @tapframe\r\n- fix: control disintegrate animation @tapframe\r\n\r\n## Enhanced changelog:\r\n- sync upstream only\r\n\r\n## Variants\r\n\r\n### Nuvio Full\r\nThis variant is built from the official source without any modifications or additions.\r\n\r\nAltStore/SideStore source:\r\n```\r\nhttps://raw.githubusercontent.com/luqmanfadlli/NuvioMobile-iOS/main/NuvioFull.json\r\n```\r\n\r\n### Nuvio Enhanced\r\nThis custom variant includes experimental features, quality-of-life improvements, and specific bug fixes not yet available in the upstream repository.\r\n\r\nAltStore/SideStore source:\r\n```\r\nhttps://raw.githubusercontent.com/luqmanfadlli/NuvioMobi",
+      "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.4.5/Nuvio-v0.4.5-Enhanced.ipa",
+      "size": 49333635
     }
   ],
   "news": []
