@@ -18,6 +18,15 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.4.6",
+          "date": "2026-08-18",
+          "localizedDescription": "# \ud83d\ude80 Release v0.4.6\r\n\r\n## Upstream changelog:\r\n- fix: refresh profile before caching verified PIN @tapframe\r\n- Simkl: let anime by a separate type @skoruppa\r\n- fix(android): render local mpv files compatibly @Sumanth1602\r\n- feat(self-hosted): support for discovery endpoint @tapframe\r\n- Update Bulgarian translations + new strings added @viiktr\r\n- Update Hungarian localization @emgeje\r\n- Add Arabic locale to Android config @Mohx77\r\n\r\n## Enhanced changelog:\r\n- All changes from the upstream\r\n- fix(ios): improve PiP handling @luqmanfadlli \r\n- fix(ios): fix player freeze on skip @luqmanfadlli \r\n- fix(ios): fix chinese subtitle rendering @luqmanfadlli \r\n- rewrite animated image rendering (fix crash on iOS with animated collection poster) @luqmanfadlli \r\n\r\n## Variants\r\n\r\n### Nuvio Full\r\nThis varian",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.4.6/Nuvio-v0.4.6-Full.ipa",
+          "size": 48558581,
+          "sha256": "d03e6c6ee6e47fa4ad9961df1e3f720340d4621176f5c9a10518d9331ec2d212",
+          "minOSVersion": "16.1"
+        },
+        {
           "version": "0.4.5",
           "date": "2026-08-13",
           "localizedDescription": "# \ud83d\ude80 Release v0.4.5\r\n\r\n## Upstream changelog:\r\n- fix: balance episode progress spacing @tapframe\r\n- fix: honor addon cache control @tapframe\r\n- fix(ios): allow smaller subtitle sizes @tapframe\r\n- fix: control disintegrate animation @tapframe\r\n\r\n## Enhanced changelog:\r\n- sync upstream only\r\n\r\n## Variants\r\n\r\n### Nuvio Full\r\nThis variant is built from the official source without any modifications or additions.\r\n\r\nAltStore/SideStore source:\r\n```\r\nhttps://raw.githubusercontent.com/luqmanfadlli/NuvioMobile-iOS/main/NuvioFull.json\r\n```\r\n\r\n### Nuvio Enhanced\r\nThis custom variant includes experimental features, quality-of-life improvements, and specific bug fixes not yet available in the upstream repository.\r\n\r\nAltStore/SideStore source:\r\n```\r\nhttps://raw.githubusercontent.com/luqmanfadlli/NuvioMobi",
@@ -135,11 +144,11 @@
           "minOSVersion": "16.1"
         }
       ],
-      "version": "0.4.5",
-      "versionDate": "2026-08-13",
-      "versionDescription": "# \ud83d\ude80 Release v0.4.5\r\n\r\n## Upstream changelog:\r\n- fix: balance episode progress spacing @tapframe\r\n- fix: honor addon cache control @tapframe\r\n- fix(ios): allow smaller subtitle sizes @tapframe\r\n- fix: control disintegrate animation @tapframe\r\n\r\n## Enhanced changelog:\r\n- sync upstream only\r\n\r\n## Variants\r\n\r\n### Nuvio Full\r\nThis variant is built from the official source without any modifications or additions.\r\n\r\nAltStore/SideStore source:\r\n```\r\nhttps://raw.githubusercontent.com/luqmanfadlli/NuvioMobile-iOS/main/NuvioFull.json\r\n```\r\n\r\n### Nuvio Enhanced\r\nThis custom variant includes experimental features, quality-of-life improvements, and specific bug fixes not yet available in the upstream repository.\r\n\r\nAltStore/SideStore source:\r\n```\r\nhttps://raw.githubusercontent.com/luqmanfadlli/NuvioMobi",
-      "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.4.5/Nuvio-v0.4.5-Full.ipa",
-      "size": 48321307
+      "version": "0.4.6",
+      "versionDate": "2026-08-18",
+      "versionDescription": "# \ud83d\ude80 Release v0.4.6\r\n\r\n## Upstream changelog:\r\n- fix: refresh profile before caching verified PIN @tapframe\r\n- Simkl: let anime by a separate type @skoruppa\r\n- fix(android): render local mpv files compatibly @Sumanth1602\r\n- feat(self-hosted): support for discovery endpoint @tapframe\r\n- Update Bulgarian translations + new strings added @viiktr\r\n- Update Hungarian localization @emgeje\r\n- Add Arabic locale to Android config @Mohx77\r\n\r\n## Enhanced changelog:\r\n- All changes from the upstream\r\n- fix(ios): improve PiP handling @luqmanfadlli \r\n- fix(ios): fix player freeze on skip @luqmanfadlli \r\n- fix(ios): fix chinese subtitle rendering @luqmanfadlli \r\n- rewrite animated image rendering (fix crash on iOS with animated collection poster) @luqmanfadlli \r\n\r\n## Variants\r\n\r\n### Nuvio Full\r\nThis varian",
+      "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.4.6/Nuvio-v0.4.6-Full.ipa",
+      "size": 48558581
     },
     {
       "name": "Nuvio Enhanced",
@@ -152,6 +161,15 @@
       "category": "entertainment",
       "screenshotURLs": [],
       "versions": [
+        {
+          "version": "0.4.6",
+          "date": "2026-08-18",
+          "localizedDescription": "# \ud83d\ude80 Release v0.4.6\r\n\r\n## Upstream changelog:\r\n- fix: refresh profile before caching verified PIN @tapframe\r\n- Simkl: let anime by a separate type @skoruppa\r\n- fix(android): render local mpv files compatibly @Sumanth1602\r\n- feat(self-hosted): support for discovery endpoint @tapframe\r\n- Update Bulgarian translations + new strings added @viiktr\r\n- Update Hungarian localization @emgeje\r\n- Add Arabic locale to Android config @Mohx77\r\n\r\n## Enhanced changelog:\r\n- All changes from the upstream\r\n- fix(ios): improve PiP handling @luqmanfadlli \r\n- fix(ios): fix player freeze on skip @luqmanfadlli \r\n- fix(ios): fix chinese subtitle rendering @luqmanfadlli \r\n- rewrite animated image rendering (fix crash on iOS with animated collection poster) @luqmanfadlli \r\n\r\n## Variants\r\n\r\n### Nuvio Full\r\nThis varian",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.4.6/Nuvio-v0.4.6-Enhanced.ipa",
+          "size": 63209183,
+          "sha256": "a4ebb4744514a13bd76a59e50382b62a4cd986015d566240564da97865d1962b",
+          "minOSVersion": "16.1"
+        },
         {
           "version": "0.4.5",
           "date": "2026-08-13",
@@ -270,11 +288,11 @@
           "minOSVersion": "16.1"
         }
       ],
-      "version": "0.4.5",
-      "versionDate": "2026-08-13",
-      "versionDescription": "# \ud83d\ude80 Release v0.4.5\r\n\r\n## Upstream changelog:\r\n- fix: balance episode progress spacing @tapframe\r\n- fix: honor addon cache control @tapframe\r\n- fix(ios): allow smaller subtitle sizes @tapframe\r\n- fix: control disintegrate animation @tapframe\r\n\r\n## Enhanced changelog:\r\n- sync upstream only\r\n\r\n## Variants\r\n\r\n### Nuvio Full\r\nThis variant is built from the official source without any modifications or additions.\r\n\r\nAltStore/SideStore source:\r\n```\r\nhttps://raw.githubusercontent.com/luqmanfadlli/NuvioMobile-iOS/main/NuvioFull.json\r\n```\r\n\r\n### Nuvio Enhanced\r\nThis custom variant includes experimental features, quality-of-life improvements, and specific bug fixes not yet available in the upstream repository.\r\n\r\nAltStore/SideStore source:\r\n```\r\nhttps://raw.githubusercontent.com/luqmanfadlli/NuvioMobi",
-      "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.4.5/Nuvio-v0.4.5-Enhanced.ipa",
-      "size": 49333635
+      "version": "0.4.6",
+      "versionDate": "2026-08-18",
+      "versionDescription": "# \ud83d\ude80 Release v0.4.6\r\n\r\n## Upstream changelog:\r\n- fix: refresh profile before caching verified PIN @tapframe\r\n- Simkl: let anime by a separate type @skoruppa\r\n- fix(android): render local mpv files compatibly @Sumanth1602\r\n- feat(self-hosted): support for discovery endpoint @tapframe\r\n- Update Bulgarian translations + new strings added @viiktr\r\n- Update Hungarian localization @emgeje\r\n- Add Arabic locale to Android config @Mohx77\r\n\r\n## Enhanced changelog:\r\n- All changes from the upstream\r\n- fix(ios): improve PiP handling @luqmanfadlli \r\n- fix(ios): fix player freeze on skip @luqmanfadlli \r\n- fix(ios): fix chinese subtitle rendering @luqmanfadlli \r\n- rewrite animated image rendering (fix crash on iOS with animated collection poster) @luqmanfadlli \r\n\r\n## Variants\r\n\r\n### Nuvio Full\r\nThis varian",
+      "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.4.6/Nuvio-v0.4.6-Enhanced.ipa",
+      "size": 63209183
     }
   ],
   "news": []
