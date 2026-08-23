@@ -18,6 +18,15 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.4.8",
+          "date": "2026-08-23",
+          "localizedDescription": "# \ud83d\ude80 Release v0.4.8\r\n\r\n## Upstream changelog:\r\n- fix(player): refresh pause description between episodes @tapframe\r\n- fix(ui): blur episode thumbnails consistently @tapframe\r\n- fix(profiles): show add profile only in edit mode @tapframe\r\n- fix(profiles): use profile background on mobile loading screen @tapframe\r\n- Fix anime movies for Simkl @skoruppa\r\n- feat(addons): confirm addon and download deletions @tapframe\r\n- Update support strings.xml @viiktr\r\n- Update strings.xml @viiktr\r\n\r\n## Enhanced changelog:\r\n- All changes from the upstream\r\n- fix(ios): throttle PiP frame capture while only primed @luqmanfadlli \r\n\r\n## Variants\r\n\r\n### Nuvio Full\r\nThis variant is built from the official source without any modifications or additions.\r\n\r\nAltStore/SideStore source:\r\n```\r\nhttps://raw.githubuserconte",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.4.8/Nuvio-v0.4.8-Full.ipa",
+          "size": 48978402,
+          "sha256": "10857c90e534287066b94ce4f90e857702b587d1070cdae3f056c3763a5c2b53",
+          "minOSVersion": "16.1"
+        },
+        {
           "version": "0.4.7",
           "date": "2026-08-20",
           "localizedDescription": "# \ud83d\ude80 Release v0.4.7\r\n\r\n## Upstream changelog:\r\n- feat: v1 for supporter perks @tapframe\r\n- Align SDH filtering with MPV @haaihond\r\n- Harden SDH subtitle filtering @haaihond\r\n- Clean up SDH subtitle stripping changes @haaihond\r\n- Add SDH subtitle stripping @haaihond\r\n\r\n## Enhanced changelog:\r\n- All changes from the upstream\r\n- fix(ios): share animated image codecs across composable by URL @luqmanfadlli \r\n- fix(ios): bound animated image memory by a constant @luqmanfadlli \r\n- fix(ios): stop duplicate downloads and bound animated image lifecycle @luqmanfadlli \r\n- chore: update release channel and kotlin cache @luqmanfadlli \r\n- fix(ios): integrate stripSdh to SubtitleStyleSettings @luqmanfadlli \r\n\r\n## Variants\r\n\r\n### Nuvio Full\r\nThis variant is built from the official source without any modific",
@@ -153,11 +162,11 @@
           "minOSVersion": "16.1"
         }
       ],
-      "version": "0.4.7",
-      "versionDate": "2026-08-20",
-      "versionDescription": "# \ud83d\ude80 Release v0.4.7\r\n\r\n## Upstream changelog:\r\n- feat: v1 for supporter perks @tapframe\r\n- Align SDH filtering with MPV @haaihond\r\n- Harden SDH subtitle filtering @haaihond\r\n- Clean up SDH subtitle stripping changes @haaihond\r\n- Add SDH subtitle stripping @haaihond\r\n\r\n## Enhanced changelog:\r\n- All changes from the upstream\r\n- fix(ios): share animated image codecs across composable by URL @luqmanfadlli \r\n- fix(ios): bound animated image memory by a constant @luqmanfadlli \r\n- fix(ios): stop duplicate downloads and bound animated image lifecycle @luqmanfadlli \r\n- chore: update release channel and kotlin cache @luqmanfadlli \r\n- fix(ios): integrate stripSdh to SubtitleStyleSettings @luqmanfadlli \r\n\r\n## Variants\r\n\r\n### Nuvio Full\r\nThis variant is built from the official source without any modific",
-      "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.4.7/Nuvio-v0.4.7-Full.ipa",
-      "size": 48902774
+      "version": "0.4.8",
+      "versionDate": "2026-08-23",
+      "versionDescription": "# \ud83d\ude80 Release v0.4.8\r\n\r\n## Upstream changelog:\r\n- fix(player): refresh pause description between episodes @tapframe\r\n- fix(ui): blur episode thumbnails consistently @tapframe\r\n- fix(profiles): show add profile only in edit mode @tapframe\r\n- fix(profiles): use profile background on mobile loading screen @tapframe\r\n- Fix anime movies for Simkl @skoruppa\r\n- feat(addons): confirm addon and download deletions @tapframe\r\n- Update support strings.xml @viiktr\r\n- Update strings.xml @viiktr\r\n\r\n## Enhanced changelog:\r\n- All changes from the upstream\r\n- fix(ios): throttle PiP frame capture while only primed @luqmanfadlli \r\n\r\n## Variants\r\n\r\n### Nuvio Full\r\nThis variant is built from the official source without any modifications or additions.\r\n\r\nAltStore/SideStore source:\r\n```\r\nhttps://raw.githubuserconte",
+      "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.4.8/Nuvio-v0.4.8-Full.ipa",
+      "size": 48978402
     },
     {
       "name": "Nuvio Enhanced",
@@ -170,6 +179,15 @@
       "category": "entertainment",
       "screenshotURLs": [],
       "versions": [
+        {
+          "version": "0.4.8",
+          "date": "2026-08-23",
+          "localizedDescription": "# \ud83d\ude80 Release v0.4.8\r\n\r\n## Upstream changelog:\r\n- fix(player): refresh pause description between episodes @tapframe\r\n- fix(ui): blur episode thumbnails consistently @tapframe\r\n- fix(profiles): show add profile only in edit mode @tapframe\r\n- fix(profiles): use profile background on mobile loading screen @tapframe\r\n- Fix anime movies for Simkl @skoruppa\r\n- feat(addons): confirm addon and download deletions @tapframe\r\n- Update support strings.xml @viiktr\r\n- Update strings.xml @viiktr\r\n\r\n## Enhanced changelog:\r\n- All changes from the upstream\r\n- fix(ios): throttle PiP frame capture while only primed @luqmanfadlli \r\n\r\n## Variants\r\n\r\n### Nuvio Full\r\nThis variant is built from the official source without any modifications or additions.\r\n\r\nAltStore/SideStore source:\r\n```\r\nhttps://raw.githubuserconte",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.4.8/Nuvio-v0.4.8-Enhanced.ipa",
+          "size": 63647734,
+          "sha256": "f8c2ea67c5f893e8be9419e3a6c3e72aacd272bb29495d2e83384fbdc3ec5cff",
+          "minOSVersion": "16.1"
+        },
         {
           "version": "0.4.7",
           "date": "2026-08-20",
@@ -306,11 +324,11 @@
           "minOSVersion": "16.1"
         }
       ],
-      "version": "0.4.7",
-      "versionDate": "2026-08-20",
-      "versionDescription": "# \ud83d\ude80 Release v0.4.7\r\n\r\n## Upstream changelog:\r\n- feat: v1 for supporter perks @tapframe\r\n- Align SDH filtering with MPV @haaihond\r\n- Harden SDH subtitle filtering @haaihond\r\n- Clean up SDH subtitle stripping changes @haaihond\r\n- Add SDH subtitle stripping @haaihond\r\n\r\n## Enhanced changelog:\r\n- All changes from the upstream\r\n- fix(ios): share animated image codecs across composable by URL @luqmanfadlli \r\n- fix(ios): bound animated image memory by a constant @luqmanfadlli \r\n- fix(ios): stop duplicate downloads and bound animated image lifecycle @luqmanfadlli \r\n- chore: update release channel and kotlin cache @luqmanfadlli \r\n- fix(ios): integrate stripSdh to SubtitleStyleSettings @luqmanfadlli \r\n\r\n## Variants\r\n\r\n### Nuvio Full\r\nThis variant is built from the official source without any modific",
-      "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.4.7/Nuvio-v0.4.7-Enhanced.ipa",
-      "size": 63572676
+      "version": "0.4.8",
+      "versionDate": "2026-08-23",
+      "versionDescription": "# \ud83d\ude80 Release v0.4.8\r\n\r\n## Upstream changelog:\r\n- fix(player): refresh pause description between episodes @tapframe\r\n- fix(ui): blur episode thumbnails consistently @tapframe\r\n- fix(profiles): show add profile only in edit mode @tapframe\r\n- fix(profiles): use profile background on mobile loading screen @tapframe\r\n- Fix anime movies for Simkl @skoruppa\r\n- feat(addons): confirm addon and download deletions @tapframe\r\n- Update support strings.xml @viiktr\r\n- Update strings.xml @viiktr\r\n\r\n## Enhanced changelog:\r\n- All changes from the upstream\r\n- fix(ios): throttle PiP frame capture while only primed @luqmanfadlli \r\n\r\n## Variants\r\n\r\n### Nuvio Full\r\nThis variant is built from the official source without any modifications or additions.\r\n\r\nAltStore/SideStore source:\r\n```\r\nhttps://raw.githubuserconte",
+      "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.4.8/Nuvio-v0.4.8-Enhanced.ipa",
+      "size": 63647734
     }
   ],
   "news": []
