@@ -18,6 +18,15 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.4.10",
+          "date": "2026-08-24",
+          "localizedDescription": "# \ud83d\ude80 Release v0.4.10\r\n\r\n## Upstream 0.4.9 changelog:\r\n- fix(network): honor backend retry delays @tapframe\r\n- fix(sync): use scoped iOS application state @tapframe\r\n- perf(sync): suppress duplicate full profile pulls @tapframe\r\n- perf(sync): throttle plugin and addon requests @tapframe\r\n- perf(sync): seed only missing provider credentials @tapframe\r\n- perf(home): remove legacy catalog sync reads @tapframe\r\n- perf(profiles): remove duplicate catalog requests @tapframe\r\n- perf(progress): deduplicate terminal sync writes @tapframe\r\n- perf(sync): reduce foreground polling requests @tapframe\r\n- perf(membership): restore cached member assets instantly @tapframe\r\n- refactor(app): modularize navigation and profile gate @tapframe\r\n## Upstream 0.4.10 changelog:\r\n- fix(search): preserve state across t",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.4.10/Nuvio-v0.4.10-Full.ipa",
+          "size": 49044145,
+          "sha256": "2070453a0cba9c3156c4e6bf25fe37ea332d2df93fffd1ab59e347e4ca574ea9",
+          "minOSVersion": "16.1"
+        },
+        {
           "version": "0.4.8",
           "date": "2026-08-23",
           "localizedDescription": "# \ud83d\ude80 Release v0.4.8\r\n\r\n## Upstream changelog:\r\n- fix(player): refresh pause description between episodes @tapframe\r\n- fix(ui): blur episode thumbnails consistently @tapframe\r\n- fix(profiles): show add profile only in edit mode @tapframe\r\n- fix(profiles): use profile background on mobile loading screen @tapframe\r\n- Fix anime movies for Simkl @skoruppa\r\n- feat(addons): confirm addon and download deletions @tapframe\r\n- Update support strings.xml @viiktr\r\n- Update strings.xml @viiktr\r\n\r\n## Enhanced changelog:\r\n- All changes from the upstream\r\n- fix(ios): throttle PiP frame capture while only primed @luqmanfadlli \r\n\r\n## Variants\r\n\r\n### Nuvio Full\r\nThis variant is built from the official source without any modifications or additions.\r\n\r\nAltStore/SideStore source:\r\n```\r\nhttps://raw.githubuserconte",
@@ -162,11 +171,11 @@
           "minOSVersion": "16.1"
         }
       ],
-      "version": "0.4.8",
-      "versionDate": "2026-08-23",
-      "versionDescription": "# \ud83d\ude80 Release v0.4.8\r\n\r\n## Upstream changelog:\r\n- fix(player): refresh pause description between episodes @tapframe\r\n- fix(ui): blur episode thumbnails consistently @tapframe\r\n- fix(profiles): show add profile only in edit mode @tapframe\r\n- fix(profiles): use profile background on mobile loading screen @tapframe\r\n- Fix anime movies for Simkl @skoruppa\r\n- feat(addons): confirm addon and download deletions @tapframe\r\n- Update support strings.xml @viiktr\r\n- Update strings.xml @viiktr\r\n\r\n## Enhanced changelog:\r\n- All changes from the upstream\r\n- fix(ios): throttle PiP frame capture while only primed @luqmanfadlli \r\n\r\n## Variants\r\n\r\n### Nuvio Full\r\nThis variant is built from the official source without any modifications or additions.\r\n\r\nAltStore/SideStore source:\r\n```\r\nhttps://raw.githubuserconte",
-      "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.4.8/Nuvio-v0.4.8-Full.ipa",
-      "size": 48978402
+      "version": "0.4.10",
+      "versionDate": "2026-08-24",
+      "versionDescription": "# \ud83d\ude80 Release v0.4.10\r\n\r\n## Upstream 0.4.9 changelog:\r\n- fix(network): honor backend retry delays @tapframe\r\n- fix(sync): use scoped iOS application state @tapframe\r\n- perf(sync): suppress duplicate full profile pulls @tapframe\r\n- perf(sync): throttle plugin and addon requests @tapframe\r\n- perf(sync): seed only missing provider credentials @tapframe\r\n- perf(home): remove legacy catalog sync reads @tapframe\r\n- perf(profiles): remove duplicate catalog requests @tapframe\r\n- perf(progress): deduplicate terminal sync writes @tapframe\r\n- perf(sync): reduce foreground polling requests @tapframe\r\n- perf(membership): restore cached member assets instantly @tapframe\r\n- refactor(app): modularize navigation and profile gate @tapframe\r\n## Upstream 0.4.10 changelog:\r\n- fix(search): preserve state across t",
+      "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.4.10/Nuvio-v0.4.10-Full.ipa",
+      "size": 49044145
     },
     {
       "name": "Nuvio Enhanced",
@@ -179,6 +188,15 @@
       "category": "entertainment",
       "screenshotURLs": [],
       "versions": [
+        {
+          "version": "0.4.10",
+          "date": "2026-08-24",
+          "localizedDescription": "# \ud83d\ude80 Release v0.4.10\r\n\r\n## Upstream 0.4.9 changelog:\r\n- fix(network): honor backend retry delays @tapframe\r\n- fix(sync): use scoped iOS application state @tapframe\r\n- perf(sync): suppress duplicate full profile pulls @tapframe\r\n- perf(sync): throttle plugin and addon requests @tapframe\r\n- perf(sync): seed only missing provider credentials @tapframe\r\n- perf(home): remove legacy catalog sync reads @tapframe\r\n- perf(profiles): remove duplicate catalog requests @tapframe\r\n- perf(progress): deduplicate terminal sync writes @tapframe\r\n- perf(sync): reduce foreground polling requests @tapframe\r\n- perf(membership): restore cached member assets instantly @tapframe\r\n- refactor(app): modularize navigation and profile gate @tapframe\r\n## Upstream 0.4.10 changelog:\r\n- fix(search): preserve state across t",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.4.10/Nuvio-v0.4.10-Enhanced.ipa",
+          "size": 63711565,
+          "sha256": "66bd45c142997c698da5db5ef9b06cba61526d962363e9a8edb005240338e9dd",
+          "minOSVersion": "16.1"
+        },
         {
           "version": "0.4.8",
           "date": "2026-08-23",
@@ -324,11 +342,11 @@
           "minOSVersion": "16.1"
         }
       ],
-      "version": "0.4.8",
-      "versionDate": "2026-08-23",
-      "versionDescription": "# \ud83d\ude80 Release v0.4.8\r\n\r\n## Upstream changelog:\r\n- fix(player): refresh pause description between episodes @tapframe\r\n- fix(ui): blur episode thumbnails consistently @tapframe\r\n- fix(profiles): show add profile only in edit mode @tapframe\r\n- fix(profiles): use profile background on mobile loading screen @tapframe\r\n- Fix anime movies for Simkl @skoruppa\r\n- feat(addons): confirm addon and download deletions @tapframe\r\n- Update support strings.xml @viiktr\r\n- Update strings.xml @viiktr\r\n\r\n## Enhanced changelog:\r\n- All changes from the upstream\r\n- fix(ios): throttle PiP frame capture while only primed @luqmanfadlli \r\n\r\n## Variants\r\n\r\n### Nuvio Full\r\nThis variant is built from the official source without any modifications or additions.\r\n\r\nAltStore/SideStore source:\r\n```\r\nhttps://raw.githubuserconte",
-      "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.4.8/Nuvio-v0.4.8-Enhanced.ipa",
-      "size": 63647734
+      "version": "0.4.10",
+      "versionDate": "2026-08-24",
+      "versionDescription": "# \ud83d\ude80 Release v0.4.10\r\n\r\n## Upstream 0.4.9 changelog:\r\n- fix(network): honor backend retry delays @tapframe\r\n- fix(sync): use scoped iOS application state @tapframe\r\n- perf(sync): suppress duplicate full profile pulls @tapframe\r\n- perf(sync): throttle plugin and addon requests @tapframe\r\n- perf(sync): seed only missing provider credentials @tapframe\r\n- perf(home): remove legacy catalog sync reads @tapframe\r\n- perf(profiles): remove duplicate catalog requests @tapframe\r\n- perf(progress): deduplicate terminal sync writes @tapframe\r\n- perf(sync): reduce foreground polling requests @tapframe\r\n- perf(membership): restore cached member assets instantly @tapframe\r\n- refactor(app): modularize navigation and profile gate @tapframe\r\n## Upstream 0.4.10 changelog:\r\n- fix(search): preserve state across t",
+      "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.4.10/Nuvio-v0.4.10-Enhanced.ipa",
+      "size": 63711565
     }
   ],
   "news": []
