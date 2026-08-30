@@ -189,6 +189,15 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.4.13",
+          "date": "2026-08-30",
+          "localizedDescription": "## AltStore/SideStore source:\r\n```\r\nhttps://github.com/luqmanfadlli/NuvioMobile-Enhanced/raw/refs/heads/enhanced/store.json\r\n```\r\n\r\n## Upstream changelog:\r\n- feat(details): parse addon certifications @tapframe\r\n- fix(details): parse addon season posters @tapframe\r\n- fix(ui): handle delayed addon content states @tapframe\r\n- fix(android): adjust launcher icon scale @tapframe\r\n- feat(player): apply member gradients to player accents @tapframe\r\n- fix(player): reset subtitle selection on source change (#1812) @guuilp\r\n\r\n## Enhanced changelog:\r\n- All changes from the upstream\r\n- fix(ios): restore native drag overlay on the morphed tab bar @luqmanfadlli\r\n- feat(profiles): push Edit Profile as a native navigation destination @albertovinaroz\r\n- feat(trailer): add configurable hero trailer start del",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.4.13/Nuvio-v0.4.13-Enhanced.ipa",
+          "size": 66579308,
+          "sha256": "351db1054f1b4f7701d631459001fc68dcd03888d0ee4eb8df9efcce1f4c1209",
+          "minOSVersion": "16.1"
+        },
+        {
           "version": "0.4.12",
           "date": "2026-08-29",
           "localizedDescription": "# \ud83d\ude80 Release v0.4.12\r\n\r\nAltStore/SideStore source:\r\n```\r\nhttps://raw.githubusercontent.com/luqmanfadlli/NuvioMobile-iOS/main/NuvioEnhanced.json\r\n```\r\n\r\n## Upstream changelog:\r\n- fix(tmdb): use multiplatform map insertion @tapframe\r\n- feat(store): automate sideload source updates @tapframe\r\n- i18n(el): translate sign-in with link strings (#1813) @nosvasedis\r\n- feat(auth): add six-character login codes @tapframe\r\n- Port NuvioTV fixes: YouTube extractor, trailer language, scrobble guard, aggregate credits (#1795) @skoruppa\r\n- fallback CJK cast names and filmography titles to English/Romaji (#1785) @halibiram\r\n- fix(player): keep controls hidden on playback start @tapframe\r\n- fix(release): group notes by pull request @tapframe\r\n- fix(release): target repository explicitly @tapframe\r\n\r\n## Enhanc",
@@ -360,11 +369,11 @@
           "minOSVersion": "16.1"
         }
       ],
-      "version": "0.4.12",
-      "versionDate": "2026-08-29",
-      "versionDescription": "# \ud83d\ude80 Release v0.4.12\r\n\r\nAltStore/SideStore source:\r\n```\r\nhttps://raw.githubusercontent.com/luqmanfadlli/NuvioMobile-iOS/main/NuvioEnhanced.json\r\n```\r\n\r\n## Upstream changelog:\r\n- fix(tmdb): use multiplatform map insertion @tapframe\r\n- feat(store): automate sideload source updates @tapframe\r\n- i18n(el): translate sign-in with link strings (#1813) @nosvasedis\r\n- feat(auth): add six-character login codes @tapframe\r\n- Port NuvioTV fixes: YouTube extractor, trailer language, scrobble guard, aggregate credits (#1795) @skoruppa\r\n- fallback CJK cast names and filmography titles to English/Romaji (#1785) @halibiram\r\n- fix(player): keep controls hidden on playback start @tapframe\r\n- fix(release): group notes by pull request @tapframe\r\n- fix(release): target repository explicitly @tapframe\r\n\r\n## Enhanc",
-      "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.4.12/Nuvio-v0.4.12-Enhanced.ipa",
-      "size": 66519572
+      "version": "0.4.13",
+      "versionDate": "2026-08-30",
+      "versionDescription": "## AltStore/SideStore source:\r\n```\r\nhttps://github.com/luqmanfadlli/NuvioMobile-Enhanced/raw/refs/heads/enhanced/store.json\r\n```\r\n\r\n## Upstream changelog:\r\n- feat(details): parse addon certifications @tapframe\r\n- fix(details): parse addon season posters @tapframe\r\n- fix(ui): handle delayed addon content states @tapframe\r\n- fix(android): adjust launcher icon scale @tapframe\r\n- feat(player): apply member gradients to player accents @tapframe\r\n- fix(player): reset subtitle selection on source change (#1812) @guuilp\r\n\r\n## Enhanced changelog:\r\n- All changes from the upstream\r\n- fix(ios): restore native drag overlay on the morphed tab bar @luqmanfadlli\r\n- feat(profiles): push Edit Profile as a native navigation destination @albertovinaroz\r\n- feat(trailer): add configurable hero trailer start del",
+      "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.4.13/Nuvio-v0.4.13-Enhanced.ipa",
+      "size": 66579308
     }
   ],
   "news": []
