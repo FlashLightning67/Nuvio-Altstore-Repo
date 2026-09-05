@@ -189,6 +189,15 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.4.14",
+          "date": "2026-09-05",
+          "localizedDescription": "## Upstream changelog:\r\n- fix(player): original audio language preference @tapframe\r\n- fix(player): allow minimum device brightness @tapframe\r\n- use Android User-Agent so IPTV DASH streams do not 403 (#1863) @halibiram\r\n- feat: updated Spanish string resource file for application localization (#1861) @IberianSoldierPC\r\n- fix(player): align mobile control icons with tv @tapframe\r\n- i18n(el): translate delayed addon content state strings (#1851) @nosvasedis\r\n- fix(streams): honor autoplay source loading scope @tapframe\r\n- Updated BG translation and fixes with later versiond (#1838) @viiktr\r\n- fix(player): persist next episode dismissal @tapframe\r\n- Use Simkl for anime ID resolution in skip-intro (replaces ARM) (#1836) @skoruppa\r\n- fix(details): map addon specials season posters @tapframe\r\n- ",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.4.14/Nuvio-v0.4.14-Enhanced.ipa",
+          "size": 66761280,
+          "sha256": "4a6acaca25c7f9afd1c49a133a7e0644ed015cea1cafa671dd4d451f056b78c8",
+          "minOSVersion": "16.1"
+        },
+        {
           "version": "0.4.13",
           "date": "2026-08-30",
           "localizedDescription": "## AltStore/SideStore source:\r\n```\r\nhttps://github.com/luqmanfadlli/NuvioMobile-Enhanced/raw/refs/heads/enhanced/store.json\r\n```\r\n\r\n## Upstream changelog:\r\n- feat(details): parse addon certifications @tapframe\r\n- fix(details): parse addon season posters @tapframe\r\n- fix(ui): handle delayed addon content states @tapframe\r\n- fix(android): adjust launcher icon scale @tapframe\r\n- feat(player): apply member gradients to player accents @tapframe\r\n- fix(player): reset subtitle selection on source change (#1812) @guuilp\r\n\r\n## Enhanced changelog:\r\n- All changes from the upstream\r\n- fix(ios): restore native drag overlay on the morphed tab bar @luqmanfadlli\r\n- feat(profiles): push Edit Profile as a native navigation destination @albertovinaroz\r\n- feat(trailer): add configurable hero trailer start del",
@@ -369,11 +378,11 @@
           "minOSVersion": "16.1"
         }
       ],
-      "version": "0.4.13",
-      "versionDate": "2026-08-30",
-      "versionDescription": "## AltStore/SideStore source:\r\n```\r\nhttps://github.com/luqmanfadlli/NuvioMobile-Enhanced/raw/refs/heads/enhanced/store.json\r\n```\r\n\r\n## Upstream changelog:\r\n- feat(details): parse addon certifications @tapframe\r\n- fix(details): parse addon season posters @tapframe\r\n- fix(ui): handle delayed addon content states @tapframe\r\n- fix(android): adjust launcher icon scale @tapframe\r\n- feat(player): apply member gradients to player accents @tapframe\r\n- fix(player): reset subtitle selection on source change (#1812) @guuilp\r\n\r\n## Enhanced changelog:\r\n- All changes from the upstream\r\n- fix(ios): restore native drag overlay on the morphed tab bar @luqmanfadlli\r\n- feat(profiles): push Edit Profile as a native navigation destination @albertovinaroz\r\n- feat(trailer): add configurable hero trailer start del",
-      "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.4.13/Nuvio-v0.4.13-Enhanced.ipa",
-      "size": 66579308
+      "version": "0.4.14",
+      "versionDate": "2026-09-05",
+      "versionDescription": "## Upstream changelog:\r\n- fix(player): original audio language preference @tapframe\r\n- fix(player): allow minimum device brightness @tapframe\r\n- use Android User-Agent so IPTV DASH streams do not 403 (#1863) @halibiram\r\n- feat: updated Spanish string resource file for application localization (#1861) @IberianSoldierPC\r\n- fix(player): align mobile control icons with tv @tapframe\r\n- i18n(el): translate delayed addon content state strings (#1851) @nosvasedis\r\n- fix(streams): honor autoplay source loading scope @tapframe\r\n- Updated BG translation and fixes with later versiond (#1838) @viiktr\r\n- fix(player): persist next episode dismissal @tapframe\r\n- Use Simkl for anime ID resolution in skip-intro (replaces ARM) (#1836) @skoruppa\r\n- fix(details): map addon specials season posters @tapframe\r\n- ",
+      "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.4.14/Nuvio-v0.4.14-Enhanced.ipa",
+      "size": 66761280
     }
   ],
   "news": []
