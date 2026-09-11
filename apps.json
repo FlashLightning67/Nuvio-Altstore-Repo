@@ -189,6 +189,15 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.4.16",
+          "date": "2026-09-11",
+          "localizedDescription": "- fix(home): settle hero carousel when returning @tapframe\r\n- fix(settings): require Trakt progress for continue watching window @tapframe\r\n- perf(ui): replace compottie spinner with native drawing @tapframe\r\n- feat(navigation): refine tablet bar and transition defaults @tapframe\r\n- feat(navigation): add reactive bottom bar glow @tapframe\r\n- feat(navigation): add shared blur transition @tapframe\r\n- feat(posters): lift original cards in zoom overlay @tapframe\r\n- feat(navigation): update bottom tab animation @tapframe\r\n- perf(android): add root navigation baseline profile @tapframe\r\n- fix(settings): defer search indexing until needed @tapframe\r\n- Merged English and Dutch strings.xml and translated all remaining English text into Dutch. (#1911) @scheperr\r\n- i18n(el): complete and tidy up Gree",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.4.16/Nuvio-v0.4.16-Enhanced.ipa",
+          "size": 66025212,
+          "sha256": "1d8ed225e92c7454c4f4a0e686e0a76fcd63be4984127b56bddf5e7aeb9ff184",
+          "minOSVersion": "16.1"
+        },
+        {
           "version": "0.4.15",
           "date": "2026-09-09",
           "localizedDescription": "## Upstream changelog:\r\n- fix(auth): synchronize shared client initialization @tapframe\r\n- fix(home): restore hero position when switching profiles @tapframe\r\n- fix(playback): disable play when no source is available @tapframe\r\n- fix(home): reduce hero height without continue watching @tapframe\r\n- Fix NetworkOnMainThreadException when starting a download (#1893) @Axl-Lvy\r\n- feat: custom static colours @tapframe\r\n- feat(members): custom gradient @tapframe\r\n- Added Russian translation (#1886) @zamalatb\r\n- fix(downloads): exclude foreground service from playstore builds @tapframe\r\n- fix(player): preserve each foreground service start notification @tapframe\r\n- fix(player): synchronize native subtitle rendering @tapframe\r\n- fix(player): resolve subtitle formats off the main thread @tapframe\r\n- ",
@@ -387,11 +396,11 @@
           "minOSVersion": "16.1"
         }
       ],
-      "version": "0.4.15",
-      "versionDate": "2026-09-09",
-      "versionDescription": "## Upstream changelog:\r\n- fix(auth): synchronize shared client initialization @tapframe\r\n- fix(home): restore hero position when switching profiles @tapframe\r\n- fix(playback): disable play when no source is available @tapframe\r\n- fix(home): reduce hero height without continue watching @tapframe\r\n- Fix NetworkOnMainThreadException when starting a download (#1893) @Axl-Lvy\r\n- feat: custom static colours @tapframe\r\n- feat(members): custom gradient @tapframe\r\n- Added Russian translation (#1886) @zamalatb\r\n- fix(downloads): exclude foreground service from playstore builds @tapframe\r\n- fix(player): preserve each foreground service start notification @tapframe\r\n- fix(player): synchronize native subtitle rendering @tapframe\r\n- fix(player): resolve subtitle formats off the main thread @tapframe\r\n- ",
-      "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.4.15/Nuvio-v0.4.15-Enhanced.ipa",
-      "size": 67833285
+      "version": "0.4.16",
+      "versionDate": "2026-09-11",
+      "versionDescription": "- fix(home): settle hero carousel when returning @tapframe\r\n- fix(settings): require Trakt progress for continue watching window @tapframe\r\n- perf(ui): replace compottie spinner with native drawing @tapframe\r\n- feat(navigation): refine tablet bar and transition defaults @tapframe\r\n- feat(navigation): add reactive bottom bar glow @tapframe\r\n- feat(navigation): add shared blur transition @tapframe\r\n- feat(posters): lift original cards in zoom overlay @tapframe\r\n- feat(navigation): update bottom tab animation @tapframe\r\n- perf(android): add root navigation baseline profile @tapframe\r\n- fix(settings): defer search indexing until needed @tapframe\r\n- Merged English and Dutch strings.xml and translated all remaining English text into Dutch. (#1911) @scheperr\r\n- i18n(el): complete and tidy up Gree",
+      "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.4.16/Nuvio-v0.4.16-Enhanced.ipa",
+      "size": 66025212
     }
   ],
   "news": []
