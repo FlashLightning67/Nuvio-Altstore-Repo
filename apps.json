@@ -189,6 +189,15 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.4.17",
+          "date": "2026-09-12",
+          "localizedDescription": "- fix(plugins): restore iOS runtime compilation @tapframe\r\n- fix(player): disable binge group reuse by default @tapframe\r\n- perf(plugins): pause search during playback and match TV runtime (#1917) @halibiram\r\n- fix(plugins): align runtime APIs with upstream execution model @luqmanfadlli\r\n- fix(sync): prevent automatic pulls from restoring deleted data @tapframe",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.4.17/Nuvio-v0.4.17-Enhanced.ipa",
+          "size": 66030339,
+          "sha256": "14d921c85892485e7f0d2763e4f3ab7766e7b15abb78c5a3709ef8d7e75389b5",
+          "minOSVersion": "16.1"
+        },
+        {
           "version": "0.4.16",
           "date": "2026-09-11",
           "localizedDescription": "- fix(home): settle hero carousel when returning @tapframe\r\n- fix(settings): require Trakt progress for continue watching window @tapframe\r\n- perf(ui): replace compottie spinner with native drawing @tapframe\r\n- feat(navigation): refine tablet bar and transition defaults @tapframe\r\n- feat(navigation): add reactive bottom bar glow @tapframe\r\n- feat(navigation): add shared blur transition @tapframe\r\n- feat(posters): lift original cards in zoom overlay @tapframe\r\n- feat(navigation): update bottom tab animation @tapframe\r\n- perf(android): add root navigation baseline profile @tapframe\r\n- fix(settings): defer search indexing until needed @tapframe\r\n- Merged English and Dutch strings.xml and translated all remaining English text into Dutch. (#1911) @scheperr\r\n- i18n(el): complete and tidy up Gree",
@@ -396,11 +405,11 @@
           "minOSVersion": "16.1"
         }
       ],
-      "version": "0.4.16",
-      "versionDate": "2026-09-11",
-      "versionDescription": "- fix(home): settle hero carousel when returning @tapframe\r\n- fix(settings): require Trakt progress for continue watching window @tapframe\r\n- perf(ui): replace compottie spinner with native drawing @tapframe\r\n- feat(navigation): refine tablet bar and transition defaults @tapframe\r\n- feat(navigation): add reactive bottom bar glow @tapframe\r\n- feat(navigation): add shared blur transition @tapframe\r\n- feat(posters): lift original cards in zoom overlay @tapframe\r\n- feat(navigation): update bottom tab animation @tapframe\r\n- perf(android): add root navigation baseline profile @tapframe\r\n- fix(settings): defer search indexing until needed @tapframe\r\n- Merged English and Dutch strings.xml and translated all remaining English text into Dutch. (#1911) @scheperr\r\n- i18n(el): complete and tidy up Gree",
-      "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.4.16/Nuvio-v0.4.16-Enhanced.ipa",
-      "size": 66025212
+      "version": "0.4.17",
+      "versionDate": "2026-09-12",
+      "versionDescription": "- fix(plugins): restore iOS runtime compilation @tapframe\r\n- fix(player): disable binge group reuse by default @tapframe\r\n- perf(plugins): pause search during playback and match TV runtime (#1917) @halibiram\r\n- fix(plugins): align runtime APIs with upstream execution model @luqmanfadlli\r\n- fix(sync): prevent automatic pulls from restoring deleted data @tapframe",
+      "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.4.17/Nuvio-v0.4.17-Enhanced.ipa",
+      "size": 66030339
     }
   ],
   "news": []
