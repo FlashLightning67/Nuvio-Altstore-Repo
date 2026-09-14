@@ -189,6 +189,15 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.4.19",
+          "date": "2026-09-14",
+          "localizedDescription": "- fix(profiles): stabilize popup size transitions @tapframe\r\n- fix(details): apply poster radius to episode list cards @tapframe\r\n- fix(home): apply poster settings to continue watching cards @tapframe\r\n- fix(streams): position sources panel below ios toolbar @tapframe\r\n- fix(navigation): preserve tab animation on tap release @tapframe\r\n- fix(profiles): correct avatar grid spacing and selection border @tapframe\r\n- feat(player): match tv autoplay loading screen @tapframe\r\n- fix(settings): match custom theme sheet background @tapframe\r\n- fix(catalog): update items after library removal @tapframe\r\n- fix(navigation): correct poster zoom positioning in rtl @tapframe\r\n- fix(settings): update selection indicators @tapframe\r\n- feat(profiles): redesign compact profile picker @tapframe\r\n- feat(navig",
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.4.19/Nuvio-v0.4.19-Enhanced.ipa",
+          "size": 66122278,
+          "sha256": "bd28e481db15811576fe269d0d9ad50605958f310a632aad1ebb2ecfc7048b4b",
+          "minOSVersion": "16.1"
+        },
+        {
           "version": "0.4.17",
           "date": "2026-09-12",
           "localizedDescription": "- fix(plugins): restore iOS runtime compilation @tapframe\r\n- fix(player): disable binge group reuse by default @tapframe\r\n- perf(plugins): pause search during playback and match TV runtime (#1917) @halibiram\r\n- fix(plugins): align runtime APIs with upstream execution model @luqmanfadlli\r\n- fix(sync): prevent automatic pulls from restoring deleted data @tapframe",
@@ -405,11 +414,11 @@
           "minOSVersion": "16.1"
         }
       ],
-      "version": "0.4.17",
-      "versionDate": "2026-09-12",
-      "versionDescription": "- fix(plugins): restore iOS runtime compilation @tapframe\r\n- fix(player): disable binge group reuse by default @tapframe\r\n- perf(plugins): pause search during playback and match TV runtime (#1917) @halibiram\r\n- fix(plugins): align runtime APIs with upstream execution model @luqmanfadlli\r\n- fix(sync): prevent automatic pulls from restoring deleted data @tapframe",
-      "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.4.17/Nuvio-v0.4.17-Enhanced.ipa",
-      "size": 66030339
+      "version": "0.4.19",
+      "versionDate": "2026-09-14",
+      "versionDescription": "- fix(profiles): stabilize popup size transitions @tapframe\r\n- fix(details): apply poster radius to episode list cards @tapframe\r\n- fix(home): apply poster settings to continue watching cards @tapframe\r\n- fix(streams): position sources panel below ios toolbar @tapframe\r\n- fix(navigation): preserve tab animation on tap release @tapframe\r\n- fix(profiles): correct avatar grid spacing and selection border @tapframe\r\n- feat(player): match tv autoplay loading screen @tapframe\r\n- fix(settings): match custom theme sheet background @tapframe\r\n- fix(catalog): update items after library removal @tapframe\r\n- fix(navigation): correct poster zoom positioning in rtl @tapframe\r\n- fix(settings): update selection indicators @tapframe\r\n- feat(profiles): redesign compact profile picker @tapframe\r\n- feat(navig",
+      "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.4.19/Nuvio-v0.4.19-Enhanced.ipa",
+      "size": 66122278
     }
   ],
   "news": []
